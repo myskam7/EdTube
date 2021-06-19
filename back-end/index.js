@@ -49,7 +49,6 @@ app.get('/search', function (req, res){
         console.log(res.data.items);
         return res.data.items
     }).catch(err => console.log(err));
-
 })
 
 

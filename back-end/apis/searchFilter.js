@@ -6,8 +6,9 @@
 // Check if string combinations exist
 // return new query
 
-
-const exampleCombos = {"react": "tutorial"};
+const exampleCombos = {
+    "react": "tutorial"
+};
 
 
 const FilterSearch = (query) => {
@@ -43,7 +44,7 @@ const FilterSearch = (query) => {
     console.log(newQuery);
 
     return newQuery.join(" ")
-
 }
 
 module.exports = FilterSearch;
+

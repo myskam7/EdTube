@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb161003-c8c3-4173-b8bb-31c0ee387e31" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/EdTube.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/back-end/Models/Auth.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/back-end/Models/MainCollection.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/back-end/Models/SearchedKeyWords.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/back-end/Models/VideoWatched.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/back-end/apis/searchFilter.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/apis/searchFilter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back-end/apis/YouTubeApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back-end/apis/searchFilter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/back-end/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/back-end/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/back-end/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/package.json" afterDir="false" />

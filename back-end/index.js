@@ -8,28 +8,50 @@
 *
 *
 *
-* */
+* Thumbnail templates:
+https://img.youtube.com/vi/<insert-youtube-video-id-here>/0.jpg
+https://img.youtube.com/vi/<insert-youtube-video-id-here>/1.jpg
+https://img.youtube.com/vi/<insert-youtube-video-id-here>/2.jpg
+https://img.youtube.com/vi/<insert-youtube-video-id-here>/3.jpg
 
-require('dotenv').config()
 
+require('dotenv').config();
+const express = require('express');
+
+const app = express();
+const fs = require('fs');
 const {google} = require('googleapis');
-
 const youtube = google.youtube('v3');
 
-youtube.search.list({
-     key: process.env.YOUTUBE_KEY,
-    part: 'snippet',
-    keyword: 'coding',
-    videoCategoryId: 27,
-    type: 'video',
-    relatedToVideoId: "_uQrJ0TkZlc",
-    q: userSearch
+const FilterSearch = require('./apis/searchFilter');
+const {PopularVideos,getData} = require('./apis/YouTubeApi');
+
+
+// SEARCH BY QUERY (name="")
+app.get('/search', async function (req, res, next){
+    const userSearch = await FilterSearch(req.query.name);
+    return getData(userSearch);
+})
+
+// Home Page
+app.get('/', async function (){
+    return PopularVideos();
+})
+
+
+app.set('json spaces', 10);
+app.listen(process.env.SERVER, function (){
+    console.log("Connected to Server")
+})
 
 
 
-} ).then(res => {
-    console.log(res.data.items);
-}).catch(err => console.log(err));
+
+
+
+
+
+
 
 
 

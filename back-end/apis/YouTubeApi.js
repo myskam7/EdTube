@@ -4,8 +4,10 @@ const {google} = require('googleapis');
 const youtube = google.youtube('v3');
 
 // GET - Search Results
-async function getData(userSearch) {
-    await youtube.search.list({
+ async function getData(userSearch) {
+
+
+   return await youtube.search.list({
         key: process.env.YOUTUBE_KEY,
         part: 'snippet',
         keyword: 'react',
@@ -15,19 +17,24 @@ async function getData(userSearch) {
         type: 'video',
         // relatedToVideoId: "QFaFIcGhPoM",
         q: userSearch
-    } ).then(res => {
-        console.log(res.data.items);
-        return res.data.items;
-        // Logging the output within the request function
-    }).catch((err) => {
+    })
+
+           .then(res => {
+        const {data} = res;
+       //  console.log("res", data)
+               return data
+       })
+           .catch((err) => {
         if (typeof err.text === 'function') {
             err.text().then(errorMessage => {
                 this.props.dispatch(displayTheError(errorMessage))
             });
         } else {
-            res.status(404).json(err.message)
+            // err.status(404).json(err.message)
+          return err.message
         }
     })
+
 }
 
 // GET - Popular Videos for the home page
@@ -46,7 +53,7 @@ function PopularVideos(){
         console.log(res.data.items); // Logging the output within the request function
         // res.json(res)
         // return body = res,data.items
-
+        return res.data.items
     }).catch((err) => {
      console.log(err)
 })

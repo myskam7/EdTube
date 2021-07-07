@@ -33,9 +33,20 @@ const {PopularVideos,getData} = require('./apis/YouTubeApi');
 
 
 // SEARCH BY QUERY (name="")
-app.get('/search', async function (req, res, next){
-    const userSearch = await FilterSearch(req.query.name);
-    return getData(userSearch);
+app.get('/search',  function (req, res, next){
+    const userSearch =  FilterSearch(req.query.name);
+    // console.log("data", await )
+
+    // await getData(userSearch);
+    getData(userSearch).then(response => res.send({"data": response}) )
+
+
+    console.log("data", )
+    // return
+})
+// SEARCH BY QUERY (name="")
+app.get('/api', async function (req, res, next){
+    return res.json( {title: "hello"})
 })
 
 // Home Page

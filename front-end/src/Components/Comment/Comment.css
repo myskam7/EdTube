@@ -1,0 +1,55 @@
+.comment {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 48px;
+  min-width: 806px;
+}
+
+.oval-5-copy {
+  -webkit-backdrop-filter: blur(1.015625px) saturate(100%);
+  backdrop-filter: blur(1.015625px) saturate(100%);
+  background-color: var(--licorice);
+  border-radius: 28px;
+  height: 28px;
+  margin-top: 4px;
+  width: 28px;
+}
+
+.overlap-group-3 {
+  height: 100%;
+  margin-left: 13px;
+  position: relative;
+  width: 765px;
+}
+
+.andrzej-wajda-roman-4 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 18px;
+  /* position: absolute; */
+  top: 0;
+  width: 765px;
+}
+
+.reply {
+  font-weight: 500;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 44px;
+  width: 42px;
+}
+
+.comment.comment-copy-3 {
+  margin-top: 21px;
+}
+
+.comment.comment-copy-2 {
+  margin-top: 28px;
+}
+
+.comment.comment-copy {
+  margin-left: 1px;
+  margin-top: 28px;
+}

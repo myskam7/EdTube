@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+
+*RUN REACT DEV TOOL: react-devtools
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

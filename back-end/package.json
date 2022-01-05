@@ -2,15 +2,16 @@
   "name": "ed-tube-backend",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon index.js"
+    "start": "nodemon server.js"
   },
   "author": "Maksym Filippov",
   "license": "MIT",
   "dependencies": {
     "dotenv": "^10.0.0",
+    "etag": "^1.8.1",
     "express": "^4.17.1",
     "fs": "^0.0.1-security",
     "googleapis": "^76.0.0",

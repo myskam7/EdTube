@@ -1,0 +1,75 @@
+.head {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-right: 547.0px;
+  min-height: 281px;
+  width: 580px;
+
+  /*align-items: flex-start;*/
+  /*padding: 30px;*/
+  /*align-self: flex-start;*/
+}
+
+
+
+.head {
+  overflow: hidden;
+  height: 35vh;
+}
+
+.logo-age-polonais {
+  height: 132px;
+  width: 463px;
+}
+
+.netflix-dcouvert {
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-bottom: -1px;
+  margin-top: 26px;
+  min-height: 31px;
+  white-space: nowrap;
+}
+
+.andrzej-wajda-roman {
+  text-align: initial;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: 8px;
+  min-height: 84px;
+  width: 580px;
+}
+
+.head-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-right: 547.0px;
+  min-height: 281px;
+  width: 580px;
+}
+
+.logo-age-polonais-1 {
+  height: 132px;
+  width: 463px;
+}
+
+.netflix-dcouvert-1 {
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-bottom: -1px;
+  margin-top: 26px;
+  min-height: 31px;
+  white-space: nowrap;
+}
+
+.andrzej-wajda-roman-1 {
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: 8px;
+  min-height: 84px;
+  width: 580px;
+}

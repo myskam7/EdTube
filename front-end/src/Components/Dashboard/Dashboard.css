@@ -1,0 +1,161 @@
+.dashboard {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  min-height: 2939px;
+  /*overflow-x: hidden;*/
+  position: relative;
+  width: 100vw;
+}
+
+.overlap-group {
+  height: 646px;
+  /*margin-left: -503px;*/
+  /*margin-top: -95px;*/
+  position: relative;
+  width: 100vw;
+  overflow: hidden;
+}
+
+.playlist {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 60px;
+  min-height: 1894px;
+  position: relative;
+  width: 100vw;
+}
+
+.discovery {
+  min-height: 700px;
+  height: 80vh;
+  margin-bottom: 100px;
+  align-items: flex-start;
+  display: flex;
+  margin-top: 55px;
+  /*min-width: 2784px;*/
+  justify-content: center;
+  width: 100vw;
+}
+
+.overlap-group1 {
+  height: 658px;
+  position: relative;
+  /*width: 2784px;*/
+}
+.head-container {
+  background-size: cover;
+  overflow: hidden;
+  /*max-height: 90vh;*/
+  height: 50vh;
+  min-height: 500px;
+
+  display: flex;
+  margin: auto;
+  width: 100vw;
+  background-size: auto;
+  resize: both;
+  background-position: center;
+
+  left: 0;
+  opacity: 0.76;
+  position: relative;
+  top: 0;
+  background: no-repeat;
+}
+
+.bg-poland {
+  display: flex;
+  margin: auto;
+  width: 100vw;
+  background-size: auto;
+  resize: both;
+  background-position: center;
+
+  left: 0;
+  opacity: 0.76;
+  position: relative;
+  top: 0;
+
+}
+
+.ic-close {
+  height: 22px;
+  left: 1358px;
+  position: absolute;
+  top: 28px;
+  width: 22px;
+}
+
+.content {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  /*left: 43px;*/
+  min-height: 566px;
+  position: absolute;
+  top: 92px;
+  /*width: 2741px;*/
+  width: 100%;
+}
+
+.film-list {
+  overflow-x: scroll;
+  overflow-y: hidden;
+  align-items: flex-start;
+  justify-content: center;
+  display: flex;
+  height: 350px;
+  margin-top: 30px;
+  min-width: 2741px;
+  position: relative;
+}
+
+.ida {
+  align-items: flex-start;
+  background-size: 100% 100%;
+  box-shadow: 0px -13px 42px #0000003d;
+  display: flex;
+  flex-direction: column;
+  min-height: 255px;
+  padding: 17px 32px;
+  width: 420px;
+}
+
+.ic-play {
+  align-self: center;
+  height: 97px;
+  margin-left: 7.0px;
+  width: 97px;
+}
+
+.overlap-group2 {
+  height: 54px;
+  margin-top: 8px;
+  position: relative;
+  width: 355px;
+}
+
+.name {
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.textlabel {
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 19px;
+  opacity: 0.4;
+  position: absolute;
+  top: 34px;
+  white-space: nowrap;
+  width: 355px;
+}

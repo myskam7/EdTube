@@ -1,0 +1,133 @@
+.tabs {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 59px;
+  margin-top: 30px;
+  min-height: 43px;
+  width: 1520px;
+}
+
+.titles {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  min-width: 1520px;
+}
+
+.textlabel-5 {
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 25px;
+  min-height: 24px;
+  min-width: 409px;
+  white-space: nowrap;
+}
+
+.la-nouvelle-vague-fr {
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-left: 53px;
+  min-height: 24px;
+  min-width: 370px;
+  opacity: 0.4;
+  white-space: nowrap;
+}
+
+.direction-cannes-ma {
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-left: 53px;
+  min-height: 24px;
+  min-width: 269px;
+  opacity: 0.4;
+  white-space: nowrap;
+}
+
+.bollywood-classiques {
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-left: 53px;
+  min-height: 24px;
+  opacity: 0.4;
+  white-space: nowrap;
+}
+
+.underline {
+  background-color: var(--mjarny);
+  border-radius: 2px;
+  height: 4px;
+  margin-left: 1px;
+  margin-top: 15px;
+  width: 407px;
+}
+
+.tabs-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 59px;
+  margin-top: 30px;
+  min-height: 43px;
+  width: 1520px;
+}
+
+.titles-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  min-width: 1520px;
+}
+
+.textlabel-6 {
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 25px;
+  min-height: 24px;
+  min-width: 409px;
+  white-space: nowrap;
+}
+
+.la-nouvelle-vague-fr-1 {
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-left: 53px;
+  min-height: 24px;
+  min-width: 370px;
+  opacity: 0.4;
+  white-space: nowrap;
+}
+
+.direction-cannes-ma-1 {
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-left: 53px;
+  min-height: 24px;
+  min-width: 269px;
+  opacity: 0.4;
+  white-space: nowrap;
+}
+
+.bollywood-classiques-1 {
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-left: 53px;
+  min-height: 24px;
+  opacity: 0.4;
+  white-space: nowrap;
+}
+
+.underline-1 {
+  background-color: var(--mjarny);
+  border-radius: 2px;
+  height: 4px;
+  margin-left: 1px;
+  margin-top: 15px;
+  width: 407px;
+}

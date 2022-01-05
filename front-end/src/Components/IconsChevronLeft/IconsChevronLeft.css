@@ -1,0 +1,62 @@
+.icons-chevron-left {
+  align-items: flex-end;
+  align-self: flex-start;
+  display: flex;
+  height: 64px;
+  margin-left: 64px;
+  margin-top: 35px;
+  min-width: 71px;
+  padding: 10px 21px;
+}
+
+.color {
+  height: 43px;
+  width: 24px;
+}
+
+.icons-chevron-left.icons-chevron-left-1 {
+  align-items: flex-start;
+  height: 63px;
+  margin-left: unset;
+  margin-top: unset;
+}
+
+.icons-chevron-left.icons-chevron-left-1 .color {
+  height: 42px;
+}
+
+.icons-chevron-left.icons-chevron-left-copy {
+  align-items: center;
+  align-self: unset;
+  height: 45px;
+  margin-bottom: 21px;
+  margin-left: 8px;
+  margin-top: unset;
+  min-width: 51px;
+  padding: 0 13.0px;
+  transform: rotate(-90deg);
+}
+
+.icons-chevron-left.icons-chevron-left-copy .color {
+  height: 35px;
+  width: 22px;
+}
+
+.icons-chevron-left.icons-chevron-left-copy-1 {
+  align-items: center;
+  align-self: unset;
+  height: 46px;
+  left: 176px;
+  margin-left: unset;
+  margin-top: unset;
+  min-width: 51px;
+  padding: 0 12.0px;
+  position: absolute;
+  top: 508px;
+  transform: rotate(-90deg);
+}
+
+.icons-chevron-left.icons-chevron-left-copy-1 .color {
+  height: 36px;
+  width: 22px;
+}

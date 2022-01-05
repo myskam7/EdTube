@@ -1,0 +1,1152 @@
+{
+  "kind": "youtube#playlistListResponse",
+  "etag": "MZw5wxuQlYdUQ6BPB7c88v4lbFI",
+  "nextPageToken": "CBkQAA",
+  "pageInfo": {
+    "totalResults": 468,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#playlist",
+      "etag": "4IwusnqKQqR9SN9g2SS_28e6GhM",
+      "id": "PLOU2XLYxmsIKiFkVnK9Eg_4i0_Qld9HbR",
+      "snippet": {
+        "publishedAt": "2021-07-13T01:04:21Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Localized",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WRNWzhrl6-s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WRNWzhrl6-s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WRNWzhrl6-s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WRNWzhrl6-s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WRNWzhrl6-s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "localized": {
+          "title": "Localized",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 212
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "OG_1rXKjxI4MhIz9gtxrlWNFIzc",
+      "id": "PLOU2XLYxmsIII16acXr3X3KL5ujqVuJs8",
+      "snippet": {
+        "publishedAt": "2021-07-12T17:23:45Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Google for Games Developer Summit - Day 2",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I0oNK-XHp0I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I0oNK-XHp0I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I0oNK-XHp0I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I0oNK-XHp0I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I0oNK-XHp0I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "localized": {
+          "title": "Google for Games Developer Summit - Day 2",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 11
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "z3i2GHne0jn4leRpcvrE0gLWIx8",
+      "id": "PLOU2XLYxmsILQjqy-GcDOrHN_3-q8lrDp",
+      "snippet": {
+        "publishedAt": "2021-07-12T17:11:49Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Google for Games Developer Summit - Day 1",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e9JCRsLjDr4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e9JCRsLjDr4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e9JCRsLjDr4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/e9JCRsLjDr4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/e9JCRsLjDr4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "localized": {
+          "title": "Google for Games Developer Summit - Day 1",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 21
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "IM1METczfKRgNet8m0YzvZW4bUI",
+      "id": "PLOU2XLYxmsILLef6r6RYTS2GzapxeZRec",
+      "snippet": {
+        "publishedAt": "2021-06-15T21:54:51Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Google Developers at Google for Games Developer Summit",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I0oNK-XHp0I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I0oNK-XHp0I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I0oNK-XHp0I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I0oNK-XHp0I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I0oNK-XHp0I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "localized": {
+          "title": "Google Developers at Google for Games Developer Summit",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 6
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "KeWOSh6Om7OnuvHo88mLSeUSbSs",
+      "id": "PLOU2XLYxmsIJq-gUg6ouMqUdRXa3QGBbT",
+      "snippet": {
+        "publishedAt": "2021-06-15T21:53:03Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "All Google for Games Developer Summit Sessions",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e9JCRsLjDr4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e9JCRsLjDr4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e9JCRsLjDr4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/e9JCRsLjDr4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/e9JCRsLjDr4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "localized": {
+          "title": "All Google for Games Developer Summit Sessions",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 34
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "kH8riAQqvA5J1vZ8rB-LDyoITDY",
+      "id": "PLOU2XLYxmsIL2NodjUg39u7KWN6xQua8q",
+      "snippet": {
+        "publishedAt": "2021-06-15T21:52:40Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Next level infrastructure",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Nu2P7Gaxaf4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Nu2P7Gaxaf4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Nu2P7Gaxaf4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Nu2P7Gaxaf4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Nu2P7Gaxaf4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "localized": {
+          "title": "Next level infrastructure",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 7
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "ebtMme-ucaXbcp8bS8R0WI_u8KE",
+      "id": "PLOU2XLYxmsIIb7hcy-YBGDlCxq8LyRdVA",
+      "snippet": {
+        "publishedAt": "2021-06-15T21:52:32Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Next level platforms",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I0oNK-XHp0I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I0oNK-XHp0I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I0oNK-XHp0I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I0oNK-XHp0I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I0oNK-XHp0I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "localized": {
+          "title": "Next level platforms",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 6
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "JmoxA0h2-wLOUZLA4ei3wRQ_53g",
+      "id": "PLOU2XLYxmsIJKFlFFE5OD0b1oMu7iUoO0",
+      "snippet": {
+        "publishedAt": "2021-06-15T21:52:24Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Next level growth",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xxQQ0ftKvss/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xxQQ0ftKvss/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xxQQ0ftKvss/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xxQQ0ftKvss/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xxQQ0ftKvss/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "localized": {
+          "title": "Next level growth",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 9
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "s_m9Cx7LPL04DVgxlNK9RuqZKkc",
+      "id": "PLOU2XLYxmsIKkUZ_qDyBY9El8L1Pvg588",
+      "snippet": {
+        "publishedAt": "2021-06-15T21:52:14Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Next level mobile",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e9JCRsLjDr4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e9JCRsLjDr4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e9JCRsLjDr4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/e9JCRsLjDr4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/e9JCRsLjDr4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "localized": {
+          "title": "Next level mobile",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 12
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "EzDGhxS9gSFNM7iNU3IMzAKjmp4",
+      "id": "PLOU2XLYxmsIKBipusXYzM3DXKZaylreO2",
+      "snippet": {
+        "publishedAt": "2021-05-20T23:53:42Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Google Pay at Google I/O 2021",
+        "description": "Over the three days of Google I/O 2021, developers and enthusiasts from around the world came together to share the latest in Google Pay, dive deeper into all things Google, and share feedback and skills through workshops, AMAs, and demos. Watch all the Google Pay Keynotes, Sessions, workshops, AMAs, and more.\n\nAll Google I/O 2021 Keynotes → https://goo.gle/io21-keynotes\nAll Google I/O 2021 Technical Sessions → https://goo.gle/io21-technicalsessions\nAll Google I/O 2021 Q&As → https://goo.gle/io21-allQAs\nAll Google I/O 2021 Demos → https://goo.gle/io21-alldemos",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j9NBCig20Tw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j9NBCig20Tw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j9NBCig20Tw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/j9NBCig20Tw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/j9NBCig20Tw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "localized": {
+          "title": "Google Pay at Google I/O 2021",
+          "description": "Over the three days of Google I/O 2021, developers and enthusiasts from around the world came together to share the latest in Google Pay, dive deeper into all things Google, and share feedback and skills through workshops, AMAs, and demos. Watch all the Google Pay Keynotes, Sessions, workshops, AMAs, and more.\n\nAll Google I/O 2021 Keynotes → https://goo.gle/io21-keynotes\nAll Google I/O 2021 Technical Sessions → https://goo.gle/io21-technicalsessions\nAll Google I/O 2021 Q&As → https://goo.gle/io21-allQAs\nAll Google I/O 2021 Demos → https://goo.gle/io21-alldemos"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 8
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "YAhgB0rsCwwCrX1VxOaqnusjDIo",
+      "id": "PLOU2XLYxmsIKdbaIHjCAVn-ENeukrsLLT",
+      "snippet": {
+        "publishedAt": "2021-04-26T19:48:05Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Google Assistant at Google I/O 2021",
+        "description": "Over the three days of Google I/O 2021, developers and enthusiasts from around the world came together to share the latest in Google Assistant, dive deeper into all things Google, and share feedback and skills through workshops, AMAs, and demos. Watch all the Google Assistant Keynotes, Sessions, workshops, AMAs, and more.\n\nAll Google I/O 2021 Keynotes → https://goo.gle/io21-keynotes\nAll Google I/O 2021 Technical Sessions → https://goo.gle/io21-technicalsessions\nAll Google I/O 2021 Q&As → https://goo.gle/io21-allQAs\nAll Google I/O 2021 Demos → https://goo.gle/io21-alldemos\nAll Google I/O 2021  Workshops → https://goo.gle/io21-workshops",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O2gCx_iX2vQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O2gCx_iX2vQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O2gCx_iX2vQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/O2gCx_iX2vQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/O2gCx_iX2vQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "localized": {
+          "title": "Google Assistant at Google I/O 2021",
+          "description": "Over the three days of Google I/O 2021, developers and enthusiasts from around the world came together to share the latest in Google Assistant, dive deeper into all things Google, and share feedback and skills through workshops, AMAs, and demos. Watch all the Google Assistant Keynotes, Sessions, workshops, AMAs, and more.\n\nAll Google I/O 2021 Keynotes → https://goo.gle/io21-keynotes\nAll Google I/O 2021 Technical Sessions → https://goo.gle/io21-technicalsessions\nAll Google I/O 2021 Q&As → https://goo.gle/io21-allQAs\nAll Google I/O 2021 Demos → https://goo.gle/io21-alldemos\nAll Google I/O 2021  Workshops → https://goo.gle/io21-workshops"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 13
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "io-XU8t663YLj55bzoLjEz70jog",
+      "id": "PLOU2XLYxmsIKToc_JFCyRJN9eyrxbS0FG",
+      "snippet": {
+        "publishedAt": "2021-04-09T16:34:46Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "All Google I/O 2021  Workshops",
+        "description": "Every workshop from Google I/O 2021. \n\nAll Google I/O 2021 Keynotes → https://goo.gle/io21-keynotes\nAll Google I/O 2021 Technical Sessions → https://goo.gle/io21-technicalsessions\nAll Google I/O 2021 Q&As → https://goo.gle/io21-allQAs\nAll Google I/O 2021 Demos → https://goo.gle/io21-alldemos",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q7xudRfN188/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q7xudRfN188/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q7xudRfN188/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Q7xudRfN188/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Q7xudRfN188/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "localized": {
+          "title": "All Google I/O 2021  Workshops",
+          "description": "Every workshop from Google I/O 2021. \n\nAll Google I/O 2021 Keynotes → https://goo.gle/io21-keynotes\nAll Google I/O 2021 Technical Sessions → https://goo.gle/io21-technicalsessions\nAll Google I/O 2021 Q&As → https://goo.gle/io21-allQAs\nAll Google I/O 2021 Demos → https://goo.gle/io21-alldemos"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 26
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "pMBnbgHZqppZdZDF9f1_83egIWA",
+      "id": "PLOU2XLYxmsIInpx6VfDxsRQS52JRYxbgO",
+      "snippet": {
+        "publishedAt": "2021-04-09T16:33:44Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "All Google I/O 2021 Technical Sessions",
+        "description": "Every Session from Google I/O 2021. \n\nAll Google I/O 2021 Keynotes → https://goo.gle/io21-keynotes\nAll Google I/O 2021 Q&As → https://goo.gle/io21-allQAs\nAll Google I/O 2021 Demos → https://goo.gle/io21-alldemos\nAll Google I/O 2021  Workshops → https://goo.gle/io21-workshops",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Mlk888FiI8A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Mlk888FiI8A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mlk888FiI8A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Mlk888FiI8A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Mlk888FiI8A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "localized": {
+          "title": "All Google I/O 2021 Technical Sessions",
+          "description": "Every Session from Google I/O 2021. \n\nAll Google I/O 2021 Keynotes → https://goo.gle/io21-keynotes\nAll Google I/O 2021 Q&As → https://goo.gle/io21-allQAs\nAll Google I/O 2021 Demos → https://goo.gle/io21-alldemos\nAll Google I/O 2021  Workshops → https://goo.gle/io21-workshops"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 96
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "9ZxcR5QZ5ISAtObLTZb5g7W9wi4",
+      "id": "PLOU2XLYxmsIIIRNHgsZPcSQJJ--2_MQvR",
+      "snippet": {
+        "publishedAt": "2021-04-09T16:33:04Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "All Google I/O 2021 Keynotes",
+        "description": "Every Keynote from Google I/O 2021. \n\nAll Google I/O 2021 Technical Sessions → https://goo.gle/io21-technicalsessions\nAll Google I/O 2021 Q&As → https://goo.gle/io21-allQAs\nAll Google I/O 2021 Demos → https://goo.gle/io21-alldemos\nAll Google I/O 2021  Workshops → https://goo.gle/io21-workshops",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Mlk888FiI8A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Mlk888FiI8A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mlk888FiI8A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Mlk888FiI8A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Mlk888FiI8A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "localized": {
+          "title": "All Google I/O 2021 Keynotes",
+          "description": "Every Keynote from Google I/O 2021. \n\nAll Google I/O 2021 Technical Sessions → https://goo.gle/io21-technicalsessions\nAll Google I/O 2021 Q&As → https://goo.gle/io21-allQAs\nAll Google I/O 2021 Demos → https://goo.gle/io21-alldemos\nAll Google I/O 2021  Workshops → https://goo.gle/io21-workshops"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 14
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "pRFI6TlyvaokstdpjGwDtD7YDkM",
+      "id": "PLOU2XLYxmsILU62c5HdPY5EQnUATTk04_",
+      "snippet": {
+        "publishedAt": "2021-04-09T16:32:32Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "All Google I/O 2021 Demos",
+        "description": "Every demo from Google I/O 2021. \n\nAll Google I/O 2021 Keynotes → https://goo.gle/io21-keynotes\nAll Google I/O 2021 Technical Sessions → https://goo.gle/io21-technicalsessions\nAll Google I/O 2021 Q&As → https://goo.gle/io21-allQAs\nAll Google I/O 2021  Workshops → https://goo.gle/io21-workshops",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jIBNhxyciLQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jIBNhxyciLQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jIBNhxyciLQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jIBNhxyciLQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jIBNhxyciLQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "localized": {
+          "title": "All Google I/O 2021 Demos",
+          "description": "Every demo from Google I/O 2021. \n\nAll Google I/O 2021 Keynotes → https://goo.gle/io21-keynotes\nAll Google I/O 2021 Technical Sessions → https://goo.gle/io21-technicalsessions\nAll Google I/O 2021 Q&As → https://goo.gle/io21-allQAs\nAll Google I/O 2021  Workshops → https://goo.gle/io21-workshops"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 18
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "ppnqNmVpXeKHvW6G1spZkHHIRW4",
+      "id": "PLOU2XLYxmsIJwWXScAwCG5vSEQbwQsC0F",
+      "snippet": {
+        "publishedAt": "2021-04-09T16:30:38Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "All Google I/O 2021 Q&As",
+        "description": "Every Q&A from Google I/O 2021. \n\nAll Google I/O 2021 Keynotes → https://goo.gle/io21-keynotes\nAll Google I/O 2021 Technical Sessions → https://goo.gle/io21-technicalsessions\nAll Google I/O 2021 Demos → https://goo.gle/io21-alldemos\nAll Google I/O 2021  Workshops → https://goo.gle/io21-workshops",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ab7-Z8glx7w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ab7-Z8glx7w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ab7-Z8glx7w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ab7-Z8glx7w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ab7-Z8glx7w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "localized": {
+          "title": "All Google I/O 2021 Q&As",
+          "description": "Every Q&A from Google I/O 2021. \n\nAll Google I/O 2021 Keynotes → https://goo.gle/io21-keynotes\nAll Google I/O 2021 Technical Sessions → https://goo.gle/io21-technicalsessions\nAll Google I/O 2021 Demos → https://goo.gle/io21-alldemos\nAll Google I/O 2021  Workshops → https://goo.gle/io21-workshops"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 26
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "QSoD1DTaWRXtOa60E39oBKIXFOI",
+      "id": "PLOU2XLYxmsILkNW9d1Jw9rHLAEORuuS-9",
+      "snippet": {
+        "publishedAt": "2021-03-31T16:54:44Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Google Pay Developers",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jzRSnB5TrEA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jzRSnB5TrEA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jzRSnB5TrEA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Google Developers",
+        "localized": {
+          "title": "Google Pay Developers",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 6
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "g1pM-yXTsdWYpp08rMWdNbhqGUA",
+      "id": "PLOU2XLYxmsIJhsF3up2ueu2pRealr9raD",
+      "snippet": {
+        "publishedAt": "2021-03-30T23:19:19Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Google I/O 2021",
+        "description": "Over the three days of Google I/O 2021, developers and enthusiasts from around the world came together to share the latest in Google and share feedback and skills through workshops, AMAs, and demos. Watch all the Keynotes, Sessions, workshops, AMAs, and more.\n\nAll Google I/O 2021 Keynotes → https://goo.gle/io21-keynotes\nAll Google I/O 2021 Technical Sessions → https://goo.gle/io21-technicalsessions\nAll Google I/O 2021 Q&As → https://goo.gle/io21-allQAs\nAll Google I/O 2021 Demos → https://goo.gle/io21-alldemos\nAll Google I/O 2021  Workshops → https://goo.gle/io21-workshops",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Mlk888FiI8A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Mlk888FiI8A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mlk888FiI8A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Mlk888FiI8A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Mlk888FiI8A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "localized": {
+          "title": "Google I/O 2021",
+          "description": "Over the three days of Google I/O 2021, developers and enthusiasts from around the world came together to share the latest in Google and share feedback and skills through workshops, AMAs, and demos. Watch all the Keynotes, Sessions, workshops, AMAs, and more.\n\nAll Google I/O 2021 Keynotes → https://goo.gle/io21-keynotes\nAll Google I/O 2021 Technical Sessions → https://goo.gle/io21-technicalsessions\nAll Google I/O 2021 Q&As → https://goo.gle/io21-allQAs\nAll Google I/O 2021 Demos → https://goo.gle/io21-alldemos\nAll Google I/O 2021  Workshops → https://goo.gle/io21-workshops"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 181
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "lwxpM_cuDtS2zzG3xJmDEbKr-t8",
+      "id": "PLOU2XLYxmsIKSPHI2OlIWH2wbS16iVT8C",
+      "snippet": {
+        "publishedAt": "2021-03-30T22:38:07Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Google Developers at Google I/O 2021",
+        "description": "Over the three days of Google I/O 2021, developers and enthusiasts from around the world came together to share the latest in Google Development, dive deeper into all things Google, and share feedback and skills through workshops, AMAs, and demos. Watch all the Google Developer Keynotes, Sessions, workshops, AMAs, and more.\n\nAll Google I/O 2021 Keynotes → https://goo.gle/io21-keynotes\nAll Google I/O 2021 Technical Sessions → https://goo.gle/io21-technicalsessions\nAll Google I/O 2021 Q&As → https://goo.gle/io21-allQAs\nAll Google I/O 2021 Demos → https://goo.gle/io21-alldemos\nAll Google I/O 2021  Workshops → https://goo.gle/io21-workshops",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D_mVOAXcrtc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D_mVOAXcrtc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D_mVOAXcrtc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/D_mVOAXcrtc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/D_mVOAXcrtc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "localized": {
+          "title": "Google Developers at Google I/O 2021",
+          "description": "Over the three days of Google I/O 2021, developers and enthusiasts from around the world came together to share the latest in Google Development, dive deeper into all things Google, and share feedback and skills through workshops, AMAs, and demos. Watch all the Google Developer Keynotes, Sessions, workshops, AMAs, and more.\n\nAll Google I/O 2021 Keynotes → https://goo.gle/io21-keynotes\nAll Google I/O 2021 Technical Sessions → https://goo.gle/io21-technicalsessions\nAll Google I/O 2021 Q&As → https://goo.gle/io21-allQAs\nAll Google I/O 2021 Demos → https://goo.gle/io21-alldemos\nAll Google I/O 2021  Workshops → https://goo.gle/io21-workshops"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 37
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "ScaGT8G6l9ycGimL_nJD4swvRZk",
+      "id": "PLOU2XLYxmsILBEom6FWVTTayy1VDCz0-m",
+      "snippet": {
+        "publishedAt": "2021-03-18T04:57:26Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Ahead of the Game: Conversations with Industry Players",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eXBEH-FG1nQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eXBEH-FG1nQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eXBEH-FG1nQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eXBEH-FG1nQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eXBEH-FG1nQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "localized": {
+          "title": "Ahead of the Game: Conversations with Industry Players",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 4
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "10Nlg0iWb_tQ0ZvNY4yBe6kJP-8",
+      "id": "PLOU2XLYxmsIJh1bR7bH5XXUCogb88sRP3",
+      "snippet": {
+        "publishedAt": "2020-12-21T20:53:44Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "2020 Holiday Playlist 🎁",
+        "description": "Bring on the holiday spirit! Enjoy this festive playlist from our friends at Firebase, Google Web Creators, Google Cloud Platform and other awesome channels for developers. ✨\n\nSubscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RC7PWF357I8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RC7PWF357I8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RC7PWF357I8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RC7PWF357I8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RC7PWF357I8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "localized": {
+          "title": "2020 Holiday Playlist 🎁",
+          "description": "Bring on the holiday spirit! Enjoy this festive playlist from our friends at Firebase, Google Web Creators, Google Cloud Platform and other awesome channels for developers. ✨\n\nSubscribe to Google Developers → https://goo.gle/developers"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 6
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "ljQEhXjspFjF55Ge_31EWHZ5x9U",
+      "id": "PLOU2XLYxmsIL5MoZ5LrrxfVk3V04evsMm",
+      "snippet": {
+        "publishedAt": "2020-11-24T22:05:35Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Google Developer Student Clubs",
+        "description": "Google Developer Student Clubs are university based community groups for students interested in Google developer technologies. Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome. By joining a GDSC, students grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses and their community.\n\nLearn more about GDSC →  http://goo.gle/gdsc\n\nSubscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Oniedo3CBDE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Oniedo3CBDE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Oniedo3CBDE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Oniedo3CBDE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Oniedo3CBDE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "localized": {
+          "title": "Google Developer Student Clubs",
+          "description": "Google Developer Student Clubs are university based community groups for students interested in Google developer technologies. Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome. By joining a GDSC, students grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses and their community.\n\nLearn more about GDSC →  http://goo.gle/gdsc\n\nSubscribe to Google Developers → https://goo.gle/developers"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 41
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "7eezBNCEvWNC-o9rDEwiGX5Jqj8",
+      "id": "PLOU2XLYxmsILJWy1k3BO7dScDSPL4KM2e",
+      "snippet": {
+        "publishedAt": "2020-11-05T23:26:53Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "App Actions",
+        "description": "This playlist covers everything you need to know about designing, developing, and building App Actions. Discover the latest videos to help you leverage the Google Assistant to deepen user engagement with your smart home devices. \n\nFor more information, check out our docs at https://goo.gle/assistant-app-docs \n\nJoin our Reddit community to keep up to date and share information with other developers → https://goo.gle/assistant-reddit. \n\nFind us on Twitter and let us know what your building with #AoGDevs → https://goo.gle/assistant-twitter \n\nFor more insights and information visit our website → https://goo.gle/assistant-docs\n\nSubscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qTJ-f16iV_g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qTJ-f16iV_g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qTJ-f16iV_g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qTJ-f16iV_g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qTJ-f16iV_g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "localized": {
+          "title": "App Actions",
+          "description": "This playlist covers everything you need to know about designing, developing, and building App Actions. Discover the latest videos to help you leverage the Google Assistant to deepen user engagement with your smart home devices. \n\nFor more information, check out our docs at https://goo.gle/assistant-app-docs \n\nJoin our Reddit community to keep up to date and share information with other developers → https://goo.gle/assistant-reddit. \n\nFind us on Twitter and let us know what your building with #AoGDevs → https://goo.gle/assistant-twitter \n\nFor more insights and information visit our website → https://goo.gle/assistant-docs\n\nSubscribe to Google Developers → https://goo.gle/developers"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 16
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "vEUGoDH9lFQdpSVG5lbSgCeM0r0",
+      "id": "PLOU2XLYxmsIKhzT-8-78KerqzhBfVhMyI",
+      "snippet": {
+        "publishedAt": "2020-10-22T20:00:45Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Assistant on Air - Games season",
+        "description": "This season of Assistant on Air is all about game development. Hear from game creators who recently built some fun and creative Assistant games for smart displays. Learn about the opportunities on this new gaming platform, the game design process, and technical best practices to delight players in this quickly expanding market.\n \nBuild games on Google Assistant → https://goo.gle/3dQ2AnL \n \nAll Assistant on Air seasons → https://goo.gle/2X0nBqG \n\nSubscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XcMitBgweM4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XcMitBgweM4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XcMitBgweM4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XcMitBgweM4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XcMitBgweM4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "localized": {
+          "title": "Assistant on Air - Games season",
+          "description": "This season of Assistant on Air is all about game development. Hear from game creators who recently built some fun and creative Assistant games for smart displays. Learn about the opportunities on this new gaming platform, the game design process, and technical best practices to delight players in this quickly expanding market.\n \nBuild games on Google Assistant → https://goo.gle/3dQ2AnL \n \nAll Assistant on Air seasons → https://goo.gle/2X0nBqG \n\nSubscribe to Google Developers → https://goo.gle/developers"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 6
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "5VIV6w1h6xgVXvj6oGWpiUDuPMg",
+      "id": "PLOU2XLYxmsIJPLtXeKN8iTQuvadcwi6Ig",
+      "snippet": {
+        "publishedAt": "2020-09-14T15:52:49Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Developer Student Clubs 2020 Solution Challenge Demo Day",
+        "description": "Thank you for joining us at the 2020 Solution Challenge Demo Day hosted by Developer Student Clubs. Developer Student Clubs (DSC) invited students to develop solutions for local community problems using one or more Google products or platforms. On August 26, 2020, we showcased the top 10 winners and their solutions! \n\nSubscribe to Google Developers → https://goo.gle/developers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uNPLMN_qyEA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uNPLMN_qyEA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uNPLMN_qyEA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uNPLMN_qyEA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uNPLMN_qyEA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "localized": {
+          "title": "Developer Student Clubs 2020 Solution Challenge Demo Day",
+          "description": "Thank you for joining us at the 2020 Solution Challenge Demo Day hosted by Developer Student Clubs. Developer Student Clubs (DSC) invited students to develop solutions for local community problems using one or more Google products or platforms. On August 26, 2020, we showcased the top 10 winners and their solutions! \n\nSubscribe to Google Developers → https://goo.gle/developers"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 16
+      }
+    }
+  ]
+}
+

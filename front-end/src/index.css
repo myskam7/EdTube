@@ -11,3 +11,82 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.search {
+  background: #D8D8D8;
+  border: 1px solid #979797;
+  background: #FFFFFF;
+  background: #D8D8D8;
+  border: 1px solid #979797;
+  border-radius: 8px;
+}
+
+.a-tag{
+  text-decoration:none
+}
+
+/* play action logo */
+.playlogo {
+  display: inline-block;
+  width: 1px;
+  height: 1px;
+
+  transition: all .2s ease-in-out;
+
+} 
+  
+
+  .play-container1{
+    borer-radius: 50%;
+  border-radius: 100%;
+/* background: #73AD21; */
+/* padding: 20px; */
+/* width: 191px; */
+/* height: 191; */
+  z-index: 2;
+  display: flex;
+    justify-content: center;
+  align-self: center;
+  margin: 0;
+  transition: all .1s ease-in-out;
+
+
+  /* transition-property: width, height;
+  transition-duration: 0.5s;
+  transition-timing-function: cubic-bezier(0, 0, 0.07, 1.12); */
+
+  }
+
+  .play-btn-playlist1{
+    margin: auto;
+    /* height: 0;
+    width: 0; */
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    /* align-content: flex-end; */
+    /* overflow: scroll; */
+    position: relative;
+    /* background-color: bisque; */
+    width: 1px;
+    height: 1px;
+    transition: all .1s ease-in-out;
+    /* transition-property: width, height; */
+  } 
+      
+  
+
+    /* .result1:hover .play-container1{
+     
+      transform: scale(1);
+
+    } 
+     .result1:hover .play-btn-playlist1{
+      transform: scale(1); */
+
+    /* } */
+    .result1:hover .play-btn-playlist1{
+      transform: scale(117);
+    
+  }

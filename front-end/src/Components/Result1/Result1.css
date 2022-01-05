@@ -1,0 +1,129 @@
+.result1 {
+  align-items: flex-start;
+  display: flex;
+  height: 212px;
+  min-width: 1215px;
+  margin-bottom: 10vh;
+  overflow: hidden;
+}
+
+.result1:hover .code-ninja {
+  color: rgb(0, 128, 68);
+}
+
+.ils-aimaient-la-vie-4 {
+  align-items: flex-start;
+  background-size: 100% 100%;
+  box-shadow: 0px -13px 42px #0000003d;
+  display: flex;
+  flex-direction: column;
+  min-height: 90%;
+  padding: 12px 27px;
+  width: 300px;
+  justify-content: center;
+}
+
+/* .ils-aimaient-la-vie-4:hover {
+  border: purple 2px solid;
+} */
+
+.ils {
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-bottom: -1px;
+  margin-left: 1px;
+  min-height: 26px;
+  white-space: nowrap;
+}
+
+.textlabel-7 {
+  align-self: flex-end;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: 4px;
+  min-height: 19px;
+  min-width: 299px;
+  opacity: 0.4;
+  white-space: nowrap;
+  width: 299px;
+}
+
+.span-11 {
+  line-height: 19px;
+}
+
+.span-12 {
+  line-height: 18px;
+}
+
+.flex-col-8 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+  margin-top: 12px;
+  min-height: 130px;
+  width: 841px;
+}
+
+.result-item-text {
+  text-align: start;
+}
+
+.netflix-dcouvert-2 {
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-bottom: -1px;
+  min-height: 25px;
+  white-space: nowrap;
+}
+
+.flex-row-6 {
+  align-items: center;
+  display: flex;
+  margin-top: 6px;
+  min-width: 592px;
+}
+
+.ic-play-3 {
+  height: 28px;
+  width: 28px;
+}
+
+.code-ninja {
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 17px;
+  margin-left: 9px;
+  margin-top: 5.0px;
+  min-height: 17px;
+  min-width: 555px;
+  white-space: nowrap;
+  width: 555px;
+}
+
+.andrzej-wajda-roman-2 {
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: 15px;
+  min-height: 56px;
+  width: 841px;
+}
+
+.result1.result1-copy {
+  margin-top: 40px;
+}
+
+
+.ic-play-copy-2 {
+  display: flex;
+  /*position: relative;*/
+  position: absolute;
+  align-self: flex-end;
+
+  width: 480px;
+  height: 290px;
+}

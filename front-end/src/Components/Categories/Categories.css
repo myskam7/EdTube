@@ -1,0 +1,436 @@
+.categories {
+  align-items: flex-start;
+  display: flex;
+
+  height: 158px;
+  margin-left: 90px;
+  margin-top: 55px;
+  min-width: 1458px;
+
+}
+
+.logo-text {
+  align-self: center;
+}
+
+.list-items {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+
+  overflow: scroll;
+  width: 98vw;
+
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+/* Hide scrollbar for Chrome, Safari and Opera */
+.list-items::-webkit-scrollbar {
+  display: none;
+}
+
+flex-col-4-cat {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  /*min-height: 158px;*/
+  width: 204px;
+}
+
+.catgories {
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-bottom: -1px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.comdie {
+  align-items: flex-start;
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+  min-height: 124px;
+  padding: 22px 60px 22px 0;
+  width: 204px;
+}
+
+.react {
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-bottom: -1px;
+  min-height: 24px;
+  min-width: 58px;
+  white-space: nowrap;
+}
+
+.ic-arrow-copy-2 {
+  align-self: center;
+  height: 100px;
+  margin-right: 2.0px;
+  margin-top: 12px;
+  width: 100px;
+}
+
+.action {
+  align-items: flex-end;
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  margin-left: 5px;
+  min-height: 124px;
+  padding: 22px 51px;
+  width: 204px;
+}
+
+.javascript {
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-bottom: -1px;
+  min-height: 24px;
+  min-width: 101px;
+  white-space: nowrap;
+}
+
+.ic-arrow {
+  align-self: center;
+  height: 24px;
+  margin-top: 12px;
+  transform: rotate(90deg);
+  width: 24px;
+}
+
+.drame {
+  align-items: flex-end;
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  margin-left: 5px;
+  min-height: 124px;
+  padding: 22px 57px;
+  width: 204px;
+}
+
+.node-js {
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-bottom: -1px;
+  min-height: 24px;
+  min-width: 77px;
+  white-space: nowrap;
+}
+
+.ic-arrow-copy-4 {
+  align-self: center;
+  height: 24px;
+  margin-top: 10px;
+  transform: rotate(90deg);
+  width: 24px;
+}
+
+.sci-fi {
+  align-items: flex-end;
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  margin-left: 5px;
+  min-height: 124px;
+  padding: 22px 52px;
+  width: 204px;
+}
+
+.mongo-db {
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-bottom: -1px;
+  min-height: 24px;
+  min-width: 98px;
+  white-space: nowrap;
+}
+
+.romance {
+  align-items: center;
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  margin-left: 5px;
+  min-height: 124px;
+  padding: 22px 0;
+  width: 204px;
+}
+
+.price {
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-bottom: -1px;
+  margin-left: 1.0px;
+  min-height: 24px;
+  min-width: 17px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.ic-arrow-copy-6 {
+  height: 24px;
+  margin-top: 10px;
+  transform: rotate(90deg);
+  width: 24px;
+}
+
+.thriller {
+  align-items: flex-end;
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  margin-left: 5px;
+  min-height: 124px;
+  padding: 22px 79px;
+  width: 204px;
+}
+
+.sql {
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-bottom: -1px;
+  min-height: 24px;
+  min-width: 43px;
+  white-space: nowrap;
+}
+
+.python {
+  align-items: flex-end;
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  margin-left: 5px;
+  min-height: 124px;
+  padding: 22px 67px;
+  width: 204px;
+}
+
+.python-1 {
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-bottom: -1px;
+  min-height: 24px;
+  min-width: 69px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.categories-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 158px;
+  margin-left: 90px;
+  margin-top: 55px;
+  min-width: 1458px;
+}
+
+.flex-col-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 158px;
+  width: 204px;
+}
+
+.catgories-1 {
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-bottom: -1px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.comdie-1 {
+  align-items: flex-end;
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+  min-height: 124px;
+  padding: 22px 72px;
+  width: 204px;
+}
+
+.react-1 {
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-bottom: -1px;
+  min-height: 24px;
+  min-width: 58px;
+  white-space: nowrap;
+}
+
+.ic-arrow-copy-2-1 {
+  align-self: center;
+  height: 24px;
+  margin-right: 2.0px;
+  margin-top: 12px;
+  transform: rotate(90deg);
+  width: 24px;
+}
+
+.action-1 {
+  align-items: flex-end;
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  margin-left: 5px;
+  min-height: 124px;
+  padding: 22px 51px;
+  width: 204px;
+}
+
+.javascript-1 {
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-bottom: -1px;
+  min-height: 24px;
+  min-width: 101px;
+  white-space: nowrap;
+}
+
+.ic-arrow-1 {
+  align-self: center;
+  height: 24px;
+  margin-top: 12px;
+  transform: rotate(90deg);
+  width: 24px;
+}
+
+.drame-1 {
+  align-items: flex-end;
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  margin-left: 5px;
+  min-height: 124px;
+  padding: 22px 57px;
+  width: 204px;
+}
+
+.node-js-1 {
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-bottom: -1px;
+  min-height: 24px;
+  min-width: 77px;
+  white-space: nowrap;
+}
+
+.ic-arrow-copy-4-1 {
+  align-self: center;
+  height: 24px;
+  margin-top: 10px;
+  transform: rotate(90deg);
+  width: 24px;
+}
+
+.sci-fi-1 {
+  align-items: flex-end;
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  margin-left: 5px;
+  min-height: 124px;
+  padding: 22px 52px;
+  width: 204px;
+}
+
+.mongo-db-1 {
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-bottom: -1px;
+  min-height: 24px;
+  min-width: 98px;
+  white-space: nowrap;
+}
+
+.romance-1 {
+  align-items: center;
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  margin-left: 5px;
+  min-height: 124px;
+  padding: 22px 0;
+  width: 204px;
+}
+
+.price-1 {
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-bottom: -1px;
+  margin-left: 1.0px;
+  min-height: 24px;
+  min-width: 17px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.ic-arrow-copy-6-1 {
+  height: 24px;
+  margin-top: 10px;
+  transform: rotate(90deg);
+  width: 24px;
+}
+
+.thriller-1 {
+  align-items: flex-end;
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  margin-left: 5px;
+  min-height: 124px;
+  padding: 22px 79px;
+  width: 204px;
+}
+
+.sql-1 {
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-bottom: -1px;
+  min-height: 24px;
+  min-width: 43px;
+  white-space: nowrap;
+}
+
+.python-2 {
+  align-items: flex-end;
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  margin-left: 5px;
+  min-height: 124px;
+  padding: 22px 67px;
+  width: 204px;
+}
+
+.python-3 {
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-bottom: -1px;
+  min-height: 24px;
+  min-width: 69px;
+  text-align: center;
+  white-space: nowrap;
+}

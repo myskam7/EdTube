@@ -1,0 +1,247 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "gO6hN5VU6HbqlAG_UDDueiEvpC4",
+  "nextPageToken": "CAUQAA",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gb2vV0Jzt1TVme3_MhulI43pRVA",
+      "id": "UExPVTJYTFl4bXNJTExlZjZyNlJZVFMyR3phcHhlWlJlYy41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2021-07-09T18:21:36Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Stadia Keynote",
+        "description": "Hear the latest and greatest from one of Stadia's business development leads. You'll learn about new offerings for all Stadia partners and how the Stadia team is working to make it easier to bring games to the platform while delivering new ways to maximize the return on launching Stadia titles.\n\nResources:\nApply to become a Stadia partner → https://goo.gle/stadiaapply\n\nSpeaker: Careen Yapp\n\nWatch more:\nNext level platforms → https://goo.gle/gamedevsummit_platforms\nGoogle Developers at Google for Games Developer Summit → https://goo.gle/gamedevsummit_googledevs\nAll Google for Games Developer Summit Sessions → https://goo.gle/gamedevsummit_allsessions\n\nSubscribe to Google Developers → https://goo.gle/developers\n\n\n#GoogleforGames #Stadia \n\n\n\nproduct: Stadia - General; event: Google for Games 2021; fullname: Careen Yapp; re_ty: Premiere;",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I0oNK-XHp0I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I0oNK-XHp0I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I0oNK-XHp0I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I0oNK-XHp0I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I0oNK-XHp0I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "playlistId": "PLOU2XLYxmsILLef6r6RYTS2GzapxeZRec",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "I0oNK-XHp0I"
+        },
+        "videoOwnerChannelTitle": "Google Developers",
+        "videoOwnerChannelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3uT-kOggmRBqMpvXs828_FckHxY",
+      "id": "UExPVTJYTFl4bXNJTExlZjZyNlJZVFMyR3phcHhlWlJlYy4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2021-07-09T18:21:47Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "GameSnacks: Google's new HTML5 gaming platform",
+        "description": "Mobile gaming is huge, and mobile HTML5 gaming is growing. Learn more about how GameSnacks helped HTML5 game developers succeed with Google. This session covered how HTML5 game developers work with GameSnacks to get their games distributed across Chrome, Play Games, Discover, and other Google apps. We' also covered how GameSnacks will partner with AdSense to help HTML5 game developers monetize.\n\nSpeaker: Ani Mohan\n\nWatch more:\nNext level platforms → https://goo.gle/gamedevsummit_platforms\nGoogle Developers at Google for Games Developer Summit → https://goo.gle/gamedevsummit_googledevs\nAll Google for Games Developer Summit Sessions → https://goo.gle/gamedevsummit_allsessions\n\nSubscribe to Google Developers → https://goo.gle/developers\n\n\n#GoogleforGames \n\n\n\nevent: Google for Games 2021; fullname: Ani Mohan; re_ty: Premiere;",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fGGO7Fpy-Gk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fGGO7Fpy-Gk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fGGO7Fpy-Gk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fGGO7Fpy-Gk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fGGO7Fpy-Gk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "playlistId": "PLOU2XLYxmsILLef6r6RYTS2GzapxeZRec",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fGGO7Fpy-Gk"
+        },
+        "videoOwnerChannelTitle": "Google Developers",
+        "videoOwnerChannelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bADr-ipfMnyo36PvfudtQ6spaSg",
+      "id": "UExPVTJYTFl4bXNJTExlZjZyNlJZVFMyR3phcHhlWlJlYy4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2021-07-09T18:22:05Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Less time porting and certing, more time creating",
+        "description": "Learn from Stadia Product Managers about how we're making it more efficient to bring games to Stadia with significant investments in cloud-native tooling and automated certification processes as well as third-party engine improvements. \n\nResources:\nApply to become a Stadia partner → https://goo.gle/stadiaapply\n\nSpeakers: Elisabeth Morant, Ryan Bartley, Robert Adelmann\n\nWatch more:\nNext level platforms → https://goo.gle/gamedevsummit_platforms\nGoogle Developers at Google for Games Developer Summit → https://goo.gle/gamedevsummit_googledevs\nAll Google for Games Developer Summit Sessions → https://goo.gle/gamedevsummit_allsessions\n\nSubscribe to Google Developers → https://goo.gle/developers\n\n\n#GoogleforGames #Stadia \n\n\n\nproduct: Stadia - General; event: Google for Games 2021; fullname: Elisabeth Morant, Ryan Bartley, Robert Adelmann; re_ty: Premiere;",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FD7vLWCGk8E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FD7vLWCGk8E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FD7vLWCGk8E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FD7vLWCGk8E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FD7vLWCGk8E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "playlistId": "PLOU2XLYxmsILLef6r6RYTS2GzapxeZRec",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FD7vLWCGk8E"
+        },
+        "videoOwnerChannelTitle": "Google Developers",
+        "videoOwnerChannelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PNGLCdxdRIOOeY_gzT3FDcMsUpc",
+      "id": "UExPVTJYTFl4bXNJTExlZjZyNlJZVFMyR3phcHhlWlJlYy41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2021-07-09T18:22:28Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Bringing new value to Stadia partners",
+        "description": "Brand new incentives are coming to Stadia and they empower developers to drive their success in awesome ways. Learn how to make the most out of publishing your game on Stadia and take advantage of everything the platform has to offer.\n\nResources:\nApply to become a Stadia partner → https://goo.gle/stadiaapply\n\nSpeaker: Alan Joyce\n\nWatch more:\nNext level platforms → https://goo.gle/gamedevsummit_platforms\nGoogle Developers at Google for Games Developer Summit → https://goo.gle/gamedevsummit_googledevs\nAll Google for Games Developer Summit Sessions → https://goo.gle/gamedevsummit_allsessions\n\nSubscribe to Google Developers → https://goo.gle/developers\n\n\n#GoogleforGames #Stadia \n\n\n\nproduct: Stadia - General; event: Google for Games 2021; fullname: Alan Joyce; re_ty: Premiere;",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qDlMQjPmPE0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qDlMQjPmPE0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qDlMQjPmPE0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qDlMQjPmPE0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qDlMQjPmPE0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "playlistId": "PLOU2XLYxmsILLef6r6RYTS2GzapxeZRec",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qDlMQjPmPE0"
+        },
+        "videoOwnerChannelTitle": "Google Developers",
+        "videoOwnerChannelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fULXimsWNsuTmB_KbBu64dWbJks",
+      "id": "UExPVTJYTFl4bXNJTExlZjZyNlJZVFMyR3phcHhlWlJlYy4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2021-07-09T18:22:59Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Connecting with gaming creators: 4 things developers should know",
+        "description": "Hear directly from YouTube gaming creators about best practices they think all marketers and game developers would benefit from to connect and engage online audiences on YouTube. Hear from content creators about the best ways to partner and collaborate with gaming creators to drive awareness and engagements with (developers) games, and how to work with gaming creators throughout the lifecycle of their games.\n\nSpeaker: Barbara Macdonald, 8bit Thug, AyChristene\n\nWatch more:\nNext level platforms → https://goo.gle/gamedevsummit_platforms\nGoogle Developers at Google for Games Developer Summit → https://goo.gle/gamedevsummit_googledevs\nAll Google for Games Developer Summit Sessions → https://goo.gle/gamedevsummit_allsessions\n\nSubscribe to Google Developers → https://goo.gle/developers\n\n\n#GoogleforGames #YouTubeGaming \n\n\n\nevent: Google for Games 2021; fullname: Barbara Macdonald; re_ty: Premiere;",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q_41b2UtIiw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q_41b2UtIiw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q_41b2UtIiw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/q_41b2UtIiw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/q_41b2UtIiw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "playlistId": "PLOU2XLYxmsILLef6r6RYTS2GzapxeZRec",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "q_41b2UtIiw"
+        },
+        "videoOwnerChannelTitle": "Google Developers",
+        "videoOwnerChannelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 6,
+    "resultsPerPage": 5
+  }
+}
+

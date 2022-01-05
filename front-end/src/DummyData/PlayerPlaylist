@@ -1,0 +1,686 @@
+{
+          "data": {
+                    "kind": "youtube#playlistItemListResponse",
+                    "etag": "UpA3ehnM_m8XWOgHcQOjt3C1-ic",
+                    "items": [
+                              {
+                                        "kind": "youtube#playlistItem",
+                                        "etag": "VgT3NrStgkc7QwfvBEw6GUpPbfM",
+                                        "id": "UEw0Y1V4ZUdrY0M5aDZPWThfOE9xNkplcldxc0tkQVB4bi41NkI0NEY2RDEwNTU3Q0M2",
+                                        "snippet": {
+                                                  "publishedAt": "2021-07-19T07:04:13Z",
+                                                  "channelId": "UCW5YeuERMmlnqo4oq8vwUpg",
+                                                  "title": "Strapi Crash Course (with React & GraphQL) #1 - Intro & Setup",
+                                                  "description": "Learn how to use Strapi (a headless CMS) from the ground up, and use it in a React application with GraphQL.\n\n🐱‍💻 Access the course files on GitHub:\nhttps://github.com/iamshaunjp/Strapi-Crash-Course\n\n🐱‍👤 Get access to extra premium courses on Net Ninja Pro: \nhttps://netninja.dev\n\n🐱‍💻 Full React Course:\nhttps://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d\n\n🐱‍💻Starter Project CSS (lesson 5):\nhttps://github.com/iamshaunjp/Strapi-Crash-Course/blob/lesson-5/frontend/src/index.css\n\n🐱‍💻  Social Links:\nFacebook - https://www.facebook.com/thenetninjauk\nTwitter - https://twitter.com/thenetninjauk\nInstagram - https://www.instagram.com/thenetninja/",
+                                                  "thumbnails": {
+                                                            "default": {
+                                                                      "url": "https://i.ytimg.com/vi/4Ntd414raYc/default.jpg",
+                                                                      "width": 120,
+                                                                      "height": 90
+                                                            },
+                                                            "medium": {
+                                                                      "url": "https://i.ytimg.com/vi/4Ntd414raYc/mqdefault.jpg",
+                                                                      "width": 320,
+                                                                      "height": 180
+                                                            },
+                                                            "high": {
+                                                                      "url": "https://i.ytimg.com/vi/4Ntd414raYc/hqdefault.jpg",
+                                                                      "width": 480,
+                                                                      "height": 360
+                                                            },
+                                                            "standard": {
+                                                                      "url": "https://i.ytimg.com/vi/4Ntd414raYc/sddefault.jpg",
+                                                                      "width": 640,
+                                                                      "height": 480
+                                                            },
+                                                            "maxres": {
+                                                                      "url": "https://i.ytimg.com/vi/4Ntd414raYc/maxresdefault.jpg",
+                                                                      "width": 1280,
+                                                                      "height": 720
+                                                            }
+                                                  },
+                                                  "channelTitle": "The Net Ninja",
+                                                  "playlistId": "PL4cUxeGkcC9h6OY8_8Oq6JerWqsKdAPxn",
+                                                  "position": 0,
+                                                  "resourceId": {
+                                                            "kind": "youtube#video",
+                                                            "videoId": "4Ntd414raYc"
+                                                  },
+                                                  "videoOwnerChannelTitle": "The Net Ninja",
+                                                  "videoOwnerChannelId": "UCW5YeuERMmlnqo4oq8vwUpg"
+                                        },
+                                        "contentDetails": {
+                                                  "videoId": "4Ntd414raYc",
+                                                  "videoPublishedAt": "2021-07-19T07:16:01Z"
+                                        }
+                              },
+                              {
+                                        "kind": "youtube#playlistItem",
+                                        "etag": "Sz-kjxzC94klmXdetG_OHaTgx1Y",
+                                        "id": "UEw0Y1V4ZUdrY0M5aDZPWThfOE9xNkplcldxc0tkQVB4bi4yODlGNEE0NkRGMEEzMEQy",
+                                        "snippet": {
+                                                  "publishedAt": "2021-07-19T07:08:01Z",
+                                                  "channelId": "UCW5YeuERMmlnqo4oq8vwUpg",
+                                                  "title": "Strapi Crash Course (with React & GraphQL) #2 - Create a Strapi App",
+                                                  "description": "Hey gang, in this Strapi tutorial you'll see how to create a new Strapi application from scratch.\n\n🐱‍💻 Access the course files on GitHub:\nhttps://github.com/iamshaunjp/Strapi-Crash-Course\n\n🐱‍👤 Get access to extra premium courses on Net Ninja Pro: \nhttps://netninja.dev\n\n🐱‍💻 Full React Course:\nhttps://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d\n\n🐱‍💻Starter Project CSS (lesson 5):\nhttps://github.com/iamshaunjp/Strapi-Crash-Course/blob/lesson-5/frontend/src/index.css\n\n🐱‍💻  Social Links:\nFacebook - https://www.facebook.com/thenetninjauk\nTwitter - https://twitter.com/thenetninjauk\nInstagram - https://www.instagram.com/thenetninja/",
+                                                  "thumbnails": {
+                                                            "default": {
+                                                                      "url": "https://i.ytimg.com/vi/vG4M5f2wKK0/default.jpg",
+                                                                      "width": 120,
+                                                                      "height": 90
+                                                            },
+                                                            "medium": {
+                                                                      "url": "https://i.ytimg.com/vi/vG4M5f2wKK0/mqdefault.jpg",
+                                                                      "width": 320,
+                                                                      "height": 180
+                                                            },
+                                                            "high": {
+                                                                      "url": "https://i.ytimg.com/vi/vG4M5f2wKK0/hqdefault.jpg",
+                                                                      "width": 480,
+                                                                      "height": 360
+                                                            },
+                                                            "standard": {
+                                                                      "url": "https://i.ytimg.com/vi/vG4M5f2wKK0/sddefault.jpg",
+                                                                      "width": 640,
+                                                                      "height": 480
+                                                            },
+                                                            "maxres": {
+                                                                      "url": "https://i.ytimg.com/vi/vG4M5f2wKK0/maxresdefault.jpg",
+                                                                      "width": 1280,
+                                                                      "height": 720
+                                                            }
+                                                  },
+                                                  "channelTitle": "The Net Ninja",
+                                                  "playlistId": "PL4cUxeGkcC9h6OY8_8Oq6JerWqsKdAPxn",
+                                                  "position": 1,
+                                                  "resourceId": {
+                                                            "kind": "youtube#video",
+                                                            "videoId": "vG4M5f2wKK0"
+                                                  },
+                                                  "videoOwnerChannelTitle": "The Net Ninja",
+                                                  "videoOwnerChannelId": "UCW5YeuERMmlnqo4oq8vwUpg"
+                                        },
+                                        "contentDetails": {
+                                                  "videoId": "vG4M5f2wKK0",
+                                                  "videoPublishedAt": "2021-07-19T07:16:09Z"
+                                        }
+                              },
+                              {
+                                        "kind": "youtube#playlistItem",
+                                        "etag": "Oq2xHZWpqRNR_Py1b7IF5Ty840w",
+                                        "id": "UEw0Y1V4ZUdrY0M5aDZPWThfOE9xNkplcldxc0tkQVB4bi4wMTcyMDhGQUE4NTIzM0Y5",
+                                        "snippet": {
+                                                  "publishedAt": "2021-07-20T06:12:26Z",
+                                                  "channelId": "UCW5YeuERMmlnqo4oq8vwUpg",
+                                                  "title": "Strapi Crash Course (with React & GraphQL) #3 - Content Types & Endpoints",
+                                                  "description": "In this Strapi tutorial we'll talk about how to add content types to your backend using Strapi & how to reach that content using api endpoints.\n\n🐱‍💻 Access the course files on GitHub:\nhttps://github.com/iamshaunjp/Strapi-Crash-Course\n\n🐱‍👤 Get access to extra premium courses on Net Ninja Pro: \nhttps://netninja.dev\n\n🐱‍💻Starter Project CSS (lesson 5):\nhttps://github.com/iamshaunjp/Strapi-Crash-Course/blob/lesson-5/frontend/src/index.css\n\n🐱‍💻 Full React Course:\nhttps://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d\n\n🐱‍💻  Social Links:\nFacebook - https://www.facebook.com/thenetninjauk\nTwitter - https://twitter.com/thenetninjauk\nInstagram - https://www.instagram.com/thenetninja/",
+                                                  "thumbnails": {
+                                                            "default": {
+                                                                      "url": "https://i.ytimg.com/vi/TVwW01BqYQQ/default.jpg",
+                                                                      "width": 120,
+                                                                      "height": 90
+                                                            },
+                                                            "medium": {
+                                                                      "url": "https://i.ytimg.com/vi/TVwW01BqYQQ/mqdefault.jpg",
+                                                                      "width": 320,
+                                                                      "height": 180
+                                                            },
+                                                            "high": {
+                                                                      "url": "https://i.ytimg.com/vi/TVwW01BqYQQ/hqdefault.jpg",
+                                                                      "width": 480,
+                                                                      "height": 360
+                                                            }
+                                                  },
+                                                  "channelTitle": "The Net Ninja",
+                                                  "playlistId": "PL4cUxeGkcC9h6OY8_8Oq6JerWqsKdAPxn",
+                                                  "position": 2,
+                                                  "resourceId": {
+                                                            "kind": "youtube#video",
+                                                            "videoId": "TVwW01BqYQQ"
+                                                  },
+                                                  "videoOwnerChannelTitle": "The Net Ninja",
+                                                  "videoOwnerChannelId": "UCW5YeuERMmlnqo4oq8vwUpg"
+                                        },
+                                        "contentDetails": {
+                                                  "videoId": "TVwW01BqYQQ",
+                                                  "videoPublishedAt": "2021-07-20T08:15:00Z"
+                                        }
+                              },
+                              {
+                                        "kind": "youtube#playlistItem",
+                                        "etag": "26OVwlLpXkiBboDrRwCsAJefIB0",
+                                        "id": "UEw0Y1V4ZUdrY0M5aDZPWThfOE9xNkplcldxc0tkQVB4bi41MjE1MkI0OTQ2QzJGNzNG",
+                                        "snippet": {
+                                                  "publishedAt": "2021-07-20T06:16:31Z",
+                                                  "channelId": "UCW5YeuERMmlnqo4oq8vwUpg",
+                                                  "title": "Strapi Crash Course (with React & GraphQL) #4 - Permissions & Auth Requests",
+                                                  "description": "Hey gang, in this Strapi tutorial you'll learn how to authenticte users using Strapi & how to limit content to authenticated users.\n\n🐱‍💻 Access the course files on GitHub:\nhttps://github.com/iamshaunjp/Strapi-Crash-Course\n\n🐱‍👤 Get access to extra premium courses on Net Ninja Pro: \nhttps://netninja.dev\n\n🐱‍💻Starter Project CSS (lesson 5):\nhttps://github.com/iamshaunjp/Strapi-Crash-Course/blob/lesson-5/frontend/src/index.css\n\n🐱‍💻 Full React Course:\nhttps://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d\n\n🐱‍💻  Social Links:\nFacebook - https://www.facebook.com/thenetninjauk\nTwitter - https://twitter.com/thenetninjauk\nInstagram - https://www.instagram.com/thenetninja/",
+                                                  "thumbnails": {
+                                                            "default": {
+                                                                      "url": "https://i.ytimg.com/vi/N4JpylgjRK0/default.jpg",
+                                                                      "width": 120,
+                                                                      "height": 90
+                                                            },
+                                                            "medium": {
+                                                                      "url": "https://i.ytimg.com/vi/N4JpylgjRK0/mqdefault.jpg",
+                                                                      "width": 320,
+                                                                      "height": 180
+                                                            },
+                                                            "high": {
+                                                                      "url": "https://i.ytimg.com/vi/N4JpylgjRK0/hqdefault.jpg",
+                                                                      "width": 480,
+                                                                      "height": 360
+                                                            },
+                                                            "standard": {
+                                                                      "url": "https://i.ytimg.com/vi/N4JpylgjRK0/sddefault.jpg",
+                                                                      "width": 640,
+                                                                      "height": 480
+                                                            },
+                                                            "maxres": {
+                                                                      "url": "https://i.ytimg.com/vi/N4JpylgjRK0/maxresdefault.jpg",
+                                                                      "width": 1280,
+                                                                      "height": 720
+                                                            }
+                                                  },
+                                                  "channelTitle": "The Net Ninja",
+                                                  "playlistId": "PL4cUxeGkcC9h6OY8_8Oq6JerWqsKdAPxn",
+                                                  "position": 3,
+                                                  "resourceId": {
+                                                            "kind": "youtube#video",
+                                                            "videoId": "N4JpylgjRK0"
+                                                  },
+                                                  "videoOwnerChannelTitle": "The Net Ninja",
+                                                  "videoOwnerChannelId": "UCW5YeuERMmlnqo4oq8vwUpg"
+                                        },
+                                        "contentDetails": {
+                                                  "videoId": "N4JpylgjRK0",
+                                                  "videoPublishedAt": "2021-07-20T13:00:13Z"
+                                        }
+                              },
+                              {
+                                        "kind": "youtube#playlistItem",
+                                        "etag": "ObLhurLf5FiNl5exEdc3GDVtz3M",
+                                        "id": "UEw0Y1V4ZUdrY0M5aDZPWThfOE9xNkplcldxc0tkQVB4bi4wOTA3OTZBNzVEMTUzOTMy",
+                                        "snippet": {
+                                                  "publishedAt": "2021-07-21T08:07:32Z",
+                                                  "channelId": "UCW5YeuERMmlnqo4oq8vwUpg",
+                                                  "title": "Strapi Crash Course (with React & GraphQL) #5 - Creating a React App",
+                                                  "description": "Hey gang, in this tutorial we'll create a React application which will eventually communicate with Strapi to fetch data.\n\n🐱‍💻 Access the course files on GitHub:\nhttps://github.com/iamshaunjp/Strapi-Crash-Course\n\n🐱‍👤 Get access to extra premium courses on Net Ninja Pro: \nhttps://netninja.dev\n\n🐱‍💻Starter Project CSS (lesson 5):\nhttps://github.com/iamshaunjp/Strapi-Crash-Course/blob/lesson-5/frontend/src/index.css\n\n🐱‍💻 Full React Course:\nhttps://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d\n\n🐱‍💻  Social Links:\nFacebook - https://www.facebook.com/thenetninjauk\nTwitter - https://twitter.com/thenetninjauk\nInstagram - https://www.instagram.com/thenetninja/",
+                                                  "thumbnails": {
+                                                            "default": {
+                                                                      "url": "https://i.ytimg.com/vi/8IVQahYX-mc/default.jpg",
+                                                                      "width": 120,
+                                                                      "height": 90
+                                                            },
+                                                            "medium": {
+                                                                      "url": "https://i.ytimg.com/vi/8IVQahYX-mc/mqdefault.jpg",
+                                                                      "width": 320,
+                                                                      "height": 180
+                                                            },
+                                                            "high": {
+                                                                      "url": "https://i.ytimg.com/vi/8IVQahYX-mc/hqdefault.jpg",
+                                                                      "width": 480,
+                                                                      "height": 360
+                                                            },
+                                                            "standard": {
+                                                                      "url": "https://i.ytimg.com/vi/8IVQahYX-mc/sddefault.jpg",
+                                                                      "width": 640,
+                                                                      "height": 480
+                                                            },
+                                                            "maxres": {
+                                                                      "url": "https://i.ytimg.com/vi/8IVQahYX-mc/maxresdefault.jpg",
+                                                                      "width": 1280,
+                                                                      "height": 720
+                                                            }
+                                                  },
+                                                  "channelTitle": "The Net Ninja",
+                                                  "playlistId": "PL4cUxeGkcC9h6OY8_8Oq6JerWqsKdAPxn",
+                                                  "position": 4,
+                                                  "resourceId": {
+                                                            "kind": "youtube#video",
+                                                            "videoId": "8IVQahYX-mc"
+                                                  },
+                                                  "videoOwnerChannelTitle": "The Net Ninja",
+                                                  "videoOwnerChannelId": "UCW5YeuERMmlnqo4oq8vwUpg"
+                                        },
+                                        "contentDetails": {
+                                                  "videoId": "8IVQahYX-mc",
+                                                  "videoPublishedAt": "2021-07-21T08:15:00Z"
+                                        }
+                              },
+                              {
+                                        "kind": "youtube#playlistItem",
+                                        "etag": "7I5YkMhDLlOw8jOTz1h_hKjb4mI",
+                                        "id": "UEw0Y1V4ZUdrY0M5aDZPWThfOE9xNkplcldxc0tkQVB4bi4xMkVGQjNCMUM1N0RFNEUx",
+                                        "snippet": {
+                                                  "publishedAt": "2021-07-21T08:09:26Z",
+                                                  "channelId": "UCW5YeuERMmlnqo4oq8vwUpg",
+                                                  "title": "Strapi Crash Course (with React & GraphQL) #6 - Fetching Strapi Data",
+                                                  "description": "In this tutorial we'll each out to Strapi from our eact appto fetch data and render it in the browser.\n\n🐱‍💻 Access the course files on GitHub:\nhttps://github.com/iamshaunjp/Strapi-Crash-Course\n\n🐱‍👤 Get access to extra premium courses on Net Ninja Pro: \nhttps://netninja.dev\n\n🐱‍💻Starter Project CSS (lesson 5):\nhttps://github.com/iamshaunjp/Strapi-Crash-Course/blob/lesson-5/frontend/src/index.css\n\n🐱‍💻 Full React Course:\nhttps://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d\n\n🐱‍💻  Social Links:\nFacebook - https://www.facebook.com/thenetninjauk\nTwitter - https://twitter.com/thenetninjauk\nInstagram - https://www.instagram.com/thenetninja/",
+                                                  "thumbnails": {
+                                                            "default": {
+                                                                      "url": "https://i.ytimg.com/vi/cOE_hF2xjpM/default.jpg",
+                                                                      "width": 120,
+                                                                      "height": 90
+                                                            },
+                                                            "medium": {
+                                                                      "url": "https://i.ytimg.com/vi/cOE_hF2xjpM/mqdefault.jpg",
+                                                                      "width": 320,
+                                                                      "height": 180
+                                                            },
+                                                            "high": {
+                                                                      "url": "https://i.ytimg.com/vi/cOE_hF2xjpM/hqdefault.jpg",
+                                                                      "width": 480,
+                                                                      "height": 360
+                                                            },
+                                                            "standard": {
+                                                                      "url": "https://i.ytimg.com/vi/cOE_hF2xjpM/sddefault.jpg",
+                                                                      "width": 640,
+                                                                      "height": 480
+                                                            },
+                                                            "maxres": {
+                                                                      "url": "https://i.ytimg.com/vi/cOE_hF2xjpM/maxresdefault.jpg",
+                                                                      "width": 1280,
+                                                                      "height": 720
+                                                            }
+                                                  },
+                                                  "channelTitle": "The Net Ninja",
+                                                  "playlistId": "PL4cUxeGkcC9h6OY8_8Oq6JerWqsKdAPxn",
+                                                  "position": 5,
+                                                  "resourceId": {
+                                                            "kind": "youtube#video",
+                                                            "videoId": "cOE_hF2xjpM"
+                                                  },
+                                                  "videoOwnerChannelTitle": "The Net Ninja",
+                                                  "videoOwnerChannelId": "UCW5YeuERMmlnqo4oq8vwUpg"
+                                        },
+                                        "contentDetails": {
+                                                  "videoId": "cOE_hF2xjpM",
+                                                  "videoPublishedAt": "2021-07-21T13:00:15Z"
+                                        }
+                              },
+                              {
+                                        "kind": "youtube#playlistItem",
+                                        "etag": "O2Yvvlpb8yE1N6XkyJM3b2XI0Pg",
+                                        "id": "UEw0Y1V4ZUdrY0M5aDZPWThfOE9xNkplcldxc0tkQVB4bi41MzJCQjBCNDIyRkJDN0VD",
+                                        "snippet": {
+                                                  "publishedAt": "2021-07-22T06:37:51Z",
+                                                  "channelId": "UCW5YeuERMmlnqo4oq8vwUpg",
+                                                  "title": "Strapi Crash Course (with React & GraphQL) #7 - Fetching a Single Record",
+                                                  "description": "In this Strapi tutorial we'll fetch a single record from the Strapi back-end for our details component. \n\n🐱‍💻 Access the course files on GitHub:\nhttps://github.com/iamshaunjp/Strapi-Crash-Course\n\n🐱‍👤 Get access to extra premium courses on Net Ninja Pro: \nhttps://netninja.dev\n\n🐱‍💻Starter Project CSS (lesson 5):\nhttps://github.com/iamshaunjp/Strapi-Crash-Course/blob/lesson-5/frontend/src/index.css\n\n🐱‍💻 Full React Course:\nhttps://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d\n\n🐱‍💻  Social Links:\nFacebook - https://www.facebook.com/thenetninjauk\nTwitter - https://twitter.com/thenetninjauk\nInstagram - https://www.instagram.com/thenetninja/",
+                                                  "thumbnails": {
+                                                            "default": {
+                                                                      "url": "https://i.ytimg.com/vi/9OwZHtH6Ppo/default.jpg",
+                                                                      "width": 120,
+                                                                      "height": 90
+                                                            },
+                                                            "medium": {
+                                                                      "url": "https://i.ytimg.com/vi/9OwZHtH6Ppo/mqdefault.jpg",
+                                                                      "width": 320,
+                                                                      "height": 180
+                                                            },
+                                                            "high": {
+                                                                      "url": "https://i.ytimg.com/vi/9OwZHtH6Ppo/hqdefault.jpg",
+                                                                      "width": 480,
+                                                                      "height": 360
+                                                            },
+                                                            "standard": {
+                                                                      "url": "https://i.ytimg.com/vi/9OwZHtH6Ppo/sddefault.jpg",
+                                                                      "width": 640,
+                                                                      "height": 480
+                                                            },
+                                                            "maxres": {
+                                                                      "url": "https://i.ytimg.com/vi/9OwZHtH6Ppo/maxresdefault.jpg",
+                                                                      "width": 1280,
+                                                                      "height": 720
+                                                            }
+                                                  },
+                                                  "channelTitle": "The Net Ninja",
+                                                  "playlistId": "PL4cUxeGkcC9h6OY8_8Oq6JerWqsKdAPxn",
+                                                  "position": 6,
+                                                  "resourceId": {
+                                                            "kind": "youtube#video",
+                                                            "videoId": "9OwZHtH6Ppo"
+                                                  },
+                                                  "videoOwnerChannelTitle": "The Net Ninja",
+                                                  "videoOwnerChannelId": "UCW5YeuERMmlnqo4oq8vwUpg"
+                                        },
+                                        "contentDetails": {
+                                                  "videoId": "9OwZHtH6Ppo",
+                                                  "videoPublishedAt": "2021-07-22T08:30:01Z"
+                                        }
+                              },
+                              {
+                                        "kind": "youtube#playlistItem",
+                                        "etag": "KV0toCZOmbc6K77tHWKrbx88Z0k",
+                                        "id": "UEw0Y1V4ZUdrY0M5aDZPWThfOE9xNkplcldxc0tkQVB4bi5DQUNERDQ2NkIzRUQxNTY1",
+                                        "snippet": {
+                                                  "publishedAt": "2021-07-22T06:40:11Z",
+                                                  "channelId": "UCW5YeuERMmlnqo4oq8vwUpg",
+                                                  "title": "Strapi Crash Course (with React & GraphQL) #8 - GraphQL Plugin & Overview",
+                                                  "description": "In this tutorial we'll see how to set up GraphQL with Strapi using the GraphQL plugin & also have a little GraphQL refresh.\n\n🐱‍💻 Access the course files on GitHub:\nhttps://github.com/iamshaunjp/Strapi-Crash-Course\n\n🐱‍👤 Get access to extra premium courses on Net Ninja Pro: \nhttps://netninja.dev\n\n🐱‍💻Starter Project CSS (lesson 5):\nhttps://github.com/iamshaunjp/Strapi-Crash-Course/blob/lesson-5/frontend/src/index.css\n\n🐱‍💻 Full React Course:\nhttps://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d\n\n🐱‍💻  Social Links:\nFacebook - https://www.facebook.com/thenetninjauk\nTwitter - https://twitter.com/thenetninjauk\nInstagram - https://www.instagram.com/thenetninja/",
+                                                  "thumbnails": {
+                                                            "default": {
+                                                                      "url": "https://i.ytimg.com/vi/3x-DeIbuNLc/default.jpg",
+                                                                      "width": 120,
+                                                                      "height": 90
+                                                            },
+                                                            "medium": {
+                                                                      "url": "https://i.ytimg.com/vi/3x-DeIbuNLc/mqdefault.jpg",
+                                                                      "width": 320,
+                                                                      "height": 180
+                                                            },
+                                                            "high": {
+                                                                      "url": "https://i.ytimg.com/vi/3x-DeIbuNLc/hqdefault.jpg",
+                                                                      "width": 480,
+                                                                      "height": 360
+                                                            },
+                                                            "standard": {
+                                                                      "url": "https://i.ytimg.com/vi/3x-DeIbuNLc/sddefault.jpg",
+                                                                      "width": 640,
+                                                                      "height": 480
+                                                            },
+                                                            "maxres": {
+                                                                      "url": "https://i.ytimg.com/vi/3x-DeIbuNLc/maxresdefault.jpg",
+                                                                      "width": 1280,
+                                                                      "height": 720
+                                                            }
+                                                  },
+                                                  "channelTitle": "The Net Ninja",
+                                                  "playlistId": "PL4cUxeGkcC9h6OY8_8Oq6JerWqsKdAPxn",
+                                                  "position": 7,
+                                                  "resourceId": {
+                                                            "kind": "youtube#video",
+                                                            "videoId": "3x-DeIbuNLc"
+                                                  },
+                                                  "videoOwnerChannelTitle": "The Net Ninja",
+                                                  "videoOwnerChannelId": "UCW5YeuERMmlnqo4oq8vwUpg"
+                                        },
+                                        "contentDetails": {
+                                                  "videoId": "3x-DeIbuNLc",
+                                                  "videoPublishedAt": "2021-07-22T10:15:00Z"
+                                        }
+                              },
+                              {
+                                        "kind": "youtube#playlistItem",
+                                        "etag": "IWQXIJVA6NFNJZlAn79kLhiTy14",
+                                        "id": "UEw0Y1V4ZUdrY0M5aDZPWThfOE9xNkplcldxc0tkQVB4bi45NDk1REZENzhEMzU5MDQz",
+                                        "snippet": {
+                                                  "publishedAt": "2021-07-23T06:55:07Z",
+                                                  "channelId": "UCW5YeuERMmlnqo4oq8vwUpg",
+                                                  "title": "Strapi Crash Course (with React & GraphQL) #9 - Apollo Client Setup",
+                                                  "description": "🐱‍💻 Access the course files on GitHub:\nhttps://github.com/iamshaunjp/Strapi-Crash-Course\n\n🐱‍👤 Get access to extra premium courses on Net Ninja Pro: \nhttps://netninja.dev\n\n🐱‍💻Starter Project CSS (lesson 5):\nhttps://github.com/iamshaunjp/Strapi-Crash-Course/blob/lesson-5/frontend/src/index.css\n\n🐱‍💻 Full React Course:\nhttps://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d\n\n🐱‍💻  Social Links:\nFacebook - https://www.facebook.com/thenetninjauk\nTwitter - https://twitter.com/thenetninjauk\nInstagram - https://www.instagram.com/thenetninja/",
+                                                  "thumbnails": {
+                                                            "default": {
+                                                                      "url": "https://i.ytimg.com/vi/Y5iDq-suzCA/default.jpg",
+                                                                      "width": 120,
+                                                                      "height": 90
+                                                            },
+                                                            "medium": {
+                                                                      "url": "https://i.ytimg.com/vi/Y5iDq-suzCA/mqdefault.jpg",
+                                                                      "width": 320,
+                                                                      "height": 180
+                                                            },
+                                                            "high": {
+                                                                      "url": "https://i.ytimg.com/vi/Y5iDq-suzCA/hqdefault.jpg",
+                                                                      "width": 480,
+                                                                      "height": 360
+                                                            }
+                                                  },
+                                                  "channelTitle": "The Net Ninja",
+                                                  "playlistId": "PL4cUxeGkcC9h6OY8_8Oq6JerWqsKdAPxn",
+                                                  "position": 8,
+                                                  "resourceId": {
+                                                            "kind": "youtube#video",
+                                                            "videoId": "Y5iDq-suzCA"
+                                                  },
+                                                  "videoOwnerChannelTitle": "The Net Ninja",
+                                                  "videoOwnerChannelId": "UCW5YeuERMmlnqo4oq8vwUpg"
+                                        },
+                                        "contentDetails": {
+                                                  "videoId": "Y5iDq-suzCA",
+                                                  "videoPublishedAt": "2021-07-23T08:15:00Z"
+                                        }
+                              },
+                              {
+                                        "kind": "youtube#playlistItem",
+                                        "etag": "xaJywPuw2WIs2hcuzFXItb6QeL8",
+                                        "id": "UEw0Y1V4ZUdrY0M5aDZPWThfOE9xNkplcldxc0tkQVB4bi5GNjNDRDREMDQxOThCMDQ2",
+                                        "snippet": {
+                                                  "publishedAt": "2021-07-23T06:59:22Z",
+                                                  "channelId": "UCW5YeuERMmlnqo4oq8vwUpg",
+                                                  "title": "Strapi Crash Course (with React & GraphQL) #10 - The useQuery Hook",
+                                                  "description": "Hey gang, in this Strapi tutorial you'll learn how to use the useQuery React hook to fetch data from Strapi using GraphQL.\n\n🐱‍💻 Access the course files on GitHub:\nhttps://github.com/iamshaunjp/Strapi-Crash-Course\n\n🐱‍👤 Get access to extra premium courses on Net Ninja Pro: \nhttps://netninja.dev\n\n🐱‍💻Starter Project CSS (lesson 5):\nhttps://github.com/iamshaunjp/Strapi-Crash-Course/blob/lesson-5/frontend/src/index.css\n\n🐱‍💻 Full React Course:\nhttps://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d\n\n🐱‍💻  Social Links:\nFacebook - https://www.facebook.com/thenetninjauk\nTwitter - https://twitter.com/thenetninjauk\nInstagram - https://www.instagram.com/thenetninja/",
+                                                  "thumbnails": {
+                                                            "default": {
+                                                                      "url": "https://i.ytimg.com/vi/qUiox_rkdvw/default.jpg",
+                                                                      "width": 120,
+                                                                      "height": 90
+                                                            },
+                                                            "medium": {
+                                                                      "url": "https://i.ytimg.com/vi/qUiox_rkdvw/mqdefault.jpg",
+                                                                      "width": 320,
+                                                                      "height": 180
+                                                            },
+                                                            "high": {
+                                                                      "url": "https://i.ytimg.com/vi/qUiox_rkdvw/hqdefault.jpg",
+                                                                      "width": 480,
+                                                                      "height": 360
+                                                            },
+                                                            "standard": {
+                                                                      "url": "https://i.ytimg.com/vi/qUiox_rkdvw/sddefault.jpg",
+                                                                      "width": 640,
+                                                                      "height": 480
+                                                            },
+                                                            "maxres": {
+                                                                      "url": "https://i.ytimg.com/vi/qUiox_rkdvw/maxresdefault.jpg",
+                                                                      "width": 1280,
+                                                                      "height": 720
+                                                            }
+                                                  },
+                                                  "channelTitle": "The Net Ninja",
+                                                  "playlistId": "PL4cUxeGkcC9h6OY8_8Oq6JerWqsKdAPxn",
+                                                  "position": 9,
+                                                  "resourceId": {
+                                                            "kind": "youtube#video",
+                                                            "videoId": "qUiox_rkdvw"
+                                                  },
+                                                  "videoOwnerChannelTitle": "The Net Ninja",
+                                                  "videoOwnerChannelId": "UCW5YeuERMmlnqo4oq8vwUpg"
+                                        },
+                                        "contentDetails": {
+                                                  "videoId": "qUiox_rkdvw",
+                                                  "videoPublishedAt": "2021-07-23T08:45:04Z"
+                                        }
+                              },
+                              {
+                                        "kind": "youtube#playlistItem",
+                                        "etag": "Qw2habL-Z2KLqDFTpm08-6Gmkh0",
+                                        "id": "UEw0Y1V4ZUdrY0M5aDZPWThfOE9xNkplcldxc0tkQVB4bi40NzZCMERDMjVEN0RFRThB",
+                                        "snippet": {
+                                                  "publishedAt": "2021-07-26T06:39:30Z",
+                                                  "channelId": "UCW5YeuERMmlnqo4oq8vwUpg",
+                                                  "title": "Strapi Crash Course (with React & GraphQL) #11 - Query Variables",
+                                                  "description": "Hey gang, in this Strapi tutorial you'll learn how to use query variables in your GraphQL queries.\n\n🐱‍💻 Access the course files on GitHub:\nhttps://github.com/iamshaunjp/Strapi-Crash-Course\n\n🐱‍👤 Get access to extra premium courses on Net Ninja Pro: \nhttps://netninja.dev\n\n🐱‍💻Starter Project CSS (lesson 5):\nhttps://github.com/iamshaunjp/Strapi-Crash-Course/blob/lesson-5/frontend/src/index.css\n\n🐱‍💻 Full React Course:\nhttps://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d\n\n🐱‍💻  Social Links:\nFacebook - https://www.facebook.com/thenetninjauk\nTwitter - https://twitter.com/thenetninjauk\nInstagram - https://www.instagram.com/thenetninja/",
+                                                  "thumbnails": {
+                                                            "default": {
+                                                                      "url": "https://i.ytimg.com/vi/94ygizaXG38/default.jpg",
+                                                                      "width": 120,
+                                                                      "height": 90
+                                                            },
+                                                            "medium": {
+                                                                      "url": "https://i.ytimg.com/vi/94ygizaXG38/mqdefault.jpg",
+                                                                      "width": 320,
+                                                                      "height": 180
+                                                            },
+                                                            "high": {
+                                                                      "url": "https://i.ytimg.com/vi/94ygizaXG38/hqdefault.jpg",
+                                                                      "width": 480,
+                                                                      "height": 360
+                                                            }
+                                                  },
+                                                  "channelTitle": "The Net Ninja",
+                                                  "playlistId": "PL4cUxeGkcC9h6OY8_8Oq6JerWqsKdAPxn",
+                                                  "position": 10,
+                                                  "resourceId": {
+                                                            "kind": "youtube#video",
+                                                            "videoId": "94ygizaXG38"
+                                                  },
+                                                  "videoOwnerChannelTitle": "The Net Ninja",
+                                                  "videoOwnerChannelId": "UCW5YeuERMmlnqo4oq8vwUpg"
+                                        },
+                                        "contentDetails": {
+                                                  "videoId": "94ygizaXG38",
+                                                  "videoPublishedAt": "2021-07-26T08:30:01Z"
+                                        }
+                              },
+                              {
+                                        "kind": "youtube#playlistItem",
+                                        "etag": "K4tWzkOpgxMNFLmX8NnvNjjX3eE",
+                                        "id": "UEw0Y1V4ZUdrY0M5aDZPWThfOE9xNkplcldxc0tkQVB4bi5EMEEwRUY5M0RDRTU3NDJC",
+                                        "snippet": {
+                                                  "publishedAt": "2021-07-27T06:41:00Z",
+                                                  "channelId": "UCW5YeuERMmlnqo4oq8vwUpg",
+                                                  "title": "Strapi Crash Course (with React & GraphQL) #12 - Relational Data",
+                                                  "description": "🐱‍💻 Access the course files on GitHub:\nhttps://github.com/iamshaunjp/Strapi-Crash-Course\n\n🐱‍👤 Get access to extra premium courses on Net Ninja Pro: \nhttps://netninja.dev\n\n🐱‍💻Starter Project CSS (lesson 5):\nhttps://github.com/iamshaunjp/Strapi-Crash-Course/blob/lesson-5/frontend/src/index.css\n\n🐱‍💻 Full React Course:\nhttps://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d\n\n🐱‍💻  Social Links:\nFacebook - https://www.facebook.com/thenetninjauk\nTwitter - https://twitter.com/thenetninjauk\nInstagram - https://www.instagram.com/thenetninja/",
+                                                  "thumbnails": {
+                                                            "default": {
+                                                                      "url": "https://i.ytimg.com/vi/OF-GZ8j60cI/default.jpg",
+                                                                      "width": 120,
+                                                                      "height": 90
+                                                            },
+                                                            "medium": {
+                                                                      "url": "https://i.ytimg.com/vi/OF-GZ8j60cI/mqdefault.jpg",
+                                                                      "width": 320,
+                                                                      "height": 180
+                                                            },
+                                                            "high": {
+                                                                      "url": "https://i.ytimg.com/vi/OF-GZ8j60cI/hqdefault.jpg",
+                                                                      "width": 480,
+                                                                      "height": 360
+                                                            },
+                                                            "standard": {
+                                                                      "url": "https://i.ytimg.com/vi/OF-GZ8j60cI/sddefault.jpg",
+                                                                      "width": 640,
+                                                                      "height": 480
+                                                            },
+                                                            "maxres": {
+                                                                      "url": "https://i.ytimg.com/vi/OF-GZ8j60cI/maxresdefault.jpg",
+                                                                      "width": 1280,
+                                                                      "height": 720
+                                                            }
+                                                  },
+                                                  "channelTitle": "The Net Ninja",
+                                                  "playlistId": "PL4cUxeGkcC9h6OY8_8Oq6JerWqsKdAPxn",
+                                                  "position": 11,
+                                                  "resourceId": {
+                                                            "kind": "youtube#video",
+                                                            "videoId": "OF-GZ8j60cI"
+                                                  },
+                                                  "videoOwnerChannelTitle": "The Net Ninja",
+                                                  "videoOwnerChannelId": "UCW5YeuERMmlnqo4oq8vwUpg"
+                                        },
+                                        "contentDetails": {
+                                                  "videoId": "OF-GZ8j60cI",
+                                                  "videoPublishedAt": "2021-07-27T08:15:01Z"
+                                        }
+                              },
+                              {
+                                        "kind": "youtube#playlistItem",
+                                        "etag": "J1lzG0PrGqocPKcH038LKSuK38Q",
+                                        "id": "UEw0Y1V4ZUdrY0M5aDZPWThfOE9xNkplcldxc0tkQVB4bi45ODRDNTg0QjA4NkFBNkQy",
+                                        "snippet": {
+                                                  "publishedAt": "2021-07-28T06:19:10Z",
+                                                  "channelId": "UCW5YeuERMmlnqo4oq8vwUpg",
+                                                  "title": "Strapi Crash Course (with React & GraphQL) #13 - Fetching Related Data",
+                                                  "description": "🐱‍💻 Access the course files on GitHub:\nhttps://github.com/iamshaunjp/Strapi-Crash-Course\n\n🐱‍👤 Get access to extra premium courses on Net Ninja Pro: \nhttps://netninja.dev\n\n🐱‍💻Starter Project CSS (lesson 5):\nhttps://github.com/iamshaunjp/Strapi-Crash-Course/blob/lesson-5/frontend/src/index.css\n\n🐱‍💻 Full React Course:\nhttps://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d\n\n🐱‍💻  Social Links:\nFacebook - https://www.facebook.com/thenetninjauk\nTwitter - https://twitter.com/thenetninjauk\nInstagram - https://www.instagram.com/thenetninja/",
+                                                  "thumbnails": {
+                                                            "default": {
+                                                                      "url": "https://i.ytimg.com/vi/Ym-UBtxril4/default.jpg",
+                                                                      "width": 120,
+                                                                      "height": 90
+                                                            },
+                                                            "medium": {
+                                                                      "url": "https://i.ytimg.com/vi/Ym-UBtxril4/mqdefault.jpg",
+                                                                      "width": 320,
+                                                                      "height": 180
+                                                            },
+                                                            "high": {
+                                                                      "url": "https://i.ytimg.com/vi/Ym-UBtxril4/hqdefault.jpg",
+                                                                      "width": 480,
+                                                                      "height": 360
+                                                            }
+                                                  },
+                                                  "channelTitle": "The Net Ninja",
+                                                  "playlistId": "PL4cUxeGkcC9h6OY8_8Oq6JerWqsKdAPxn",
+                                                  "position": 12,
+                                                  "resourceId": {
+                                                            "kind": "youtube#video",
+                                                            "videoId": "Ym-UBtxril4"
+                                                  },
+                                                  "videoOwnerChannelTitle": "The Net Ninja",
+                                                  "videoOwnerChannelId": "UCW5YeuERMmlnqo4oq8vwUpg"
+                                        },
+                                        "contentDetails": {
+                                                  "videoId": "Ym-UBtxril4",
+                                                  "videoPublishedAt": "2021-07-28T08:15:01Z"
+                                        }
+                              },
+                              {
+                                        "kind": "youtube#playlistItem",
+                                        "etag": "P7V1VR6Ah2WMhKPUVwI6rsp2IvQ",
+                                        "id": "UEw0Y1V4ZUdrY0M5aDZPWThfOE9xNkplcldxc0tkQVB4bi4zMDg5MkQ5MEVDMEM1NTg2",
+                                        "snippet": {
+                                                  "publishedAt": "2021-07-28T06:25:00Z",
+                                                  "channelId": "UCW5YeuERMmlnqo4oq8vwUpg",
+                                                  "title": "Strapi Crash Course (with React & GraphQL) #14 - Rich Text Content",
+                                                  "description": "🐱‍💻 Access the course files on GitHub:\nhttps://github.com/iamshaunjp/Strapi-Crash-Course\n\n🐱‍👤 Get access to extra premium courses on Net Ninja Pro: \nhttps://netninja.dev\n\n🐱‍💻Starter Project CSS (lesson 5):\nhttps://github.com/iamshaunjp/Strapi-Crash-Course/blob/lesson-5/frontend/src/index.css\n\n🐱‍💻 Full React Course:\nhttps://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d\n\n🐱‍💻  Social Links:\nFacebook - https://www.facebook.com/thenetninjauk\nTwitter - https://twitter.com/thenetninjauk\nInstagram - https://www.instagram.com/thenetninja/",
+                                                  "thumbnails": {
+                                                            "default": {
+                                                                      "url": "https://i.ytimg.com/vi/mHuUASWQij4/default.jpg",
+                                                                      "width": 120,
+                                                                      "height": 90
+                                                            },
+                                                            "medium": {
+                                                                      "url": "https://i.ytimg.com/vi/mHuUASWQij4/mqdefault.jpg",
+                                                                      "width": 320,
+                                                                      "height": 180
+                                                            },
+                                                            "high": {
+                                                                      "url": "https://i.ytimg.com/vi/mHuUASWQij4/hqdefault.jpg",
+                                                                      "width": 480,
+                                                                      "height": 360
+                                                            },
+                                                            "standard": {
+                                                                      "url": "https://i.ytimg.com/vi/mHuUASWQij4/sddefault.jpg",
+                                                                      "width": 640,
+                                                                      "height": 480
+                                                            },
+                                                            "maxres": {
+                                                                      "url": "https://i.ytimg.com/vi/mHuUASWQij4/maxresdefault.jpg",
+                                                                      "width": 1280,
+                                                                      "height": 720
+                                                            }
+                                                  },
+                                                  "channelTitle": "The Net Ninja",
+                                                  "playlistId": "PL4cUxeGkcC9h6OY8_8Oq6JerWqsKdAPxn",
+                                                  "position": 13,
+                                                  "resourceId": {
+                                                            "kind": "youtube#video",
+                                                            "videoId": "mHuUASWQij4"
+                                                  },
+                                                  "videoOwnerChannelTitle": "The Net Ninja",
+                                                  "videoOwnerChannelId": "UCW5YeuERMmlnqo4oq8vwUpg"
+                                        },
+                                        "contentDetails": {
+                                                  "videoId": "mHuUASWQij4",
+                                                  "videoPublishedAt": "2021-07-28T09:00:30Z"
+                                        }
+                              }
+                    ],
+                    "pageInfo": {
+                              "totalResults": 14,
+                              "resultsPerPage": 50
+                    }
+          }
+}
